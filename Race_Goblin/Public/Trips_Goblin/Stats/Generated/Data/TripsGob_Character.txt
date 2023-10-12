@@ -1,0 +1,11 @@
+new entry "Trips_HeroGoblinFemale"
+type "Character"
+using "_Hero"
+data "StepsType" "Bare"
+data "Weight" "35"
+
+new entry "Trips_HeroGoblinMale"
+type "Character"
+using "_Hero"
+data "StepsType" "Bare"
+data "Weight" "35"

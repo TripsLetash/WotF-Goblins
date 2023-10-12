@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="52"/>
+    <region id="CharacterCreationPresets">
+        <node id="root">
+            <children>            
+				<!--Goblin-->					
+                <node id="CharacterCreationPreset"><!--MASC-->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="HFL_M_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HFL_M_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HFL_M_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404"/> 
+                    <attribute id="RootTemplate" type="guid" value="fe265954-3a3f-4ef8-ac83-6968dd48dc09"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="4ac81b3c-1cda-4e0b-bffc-dca694eea245"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+                <node id="CharacterCreationPreset"><!--FEM-->
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="CloseUpA" type="LSString" value="HFL_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="HFL_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="HFL_F_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404"/>  
+                    <attribute id="RootTemplate" type="guid" value="5981632e-1499-4548-b0c3-b1d094201dba"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="531a60e8-811c-4ac3-ae39-a55dc76c5d03"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

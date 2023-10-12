@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1">Goblin</content>	
+	<content contentuid="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1">I'm a Gnoblin </content>
+
+	<content contentuid="h1783f559g7919g4b20gb209g105ffe123904" version="1">Fey Ancestry</content>
+	<content contentuid="hd8c76b7dg236bg4a55g8616g8f57b8e16e83" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against ending the Charmed effect.</content>
+
+
+	<content contentuid="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1">Goblin Head 1</content>
+
+	<content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Darkvision</content>
+	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>
+	<content contentuid="h157407c7gde6cg4110g9653gcd30e0e9e5f7" version="1">Nimble Escape</content>
+
+	<content contentuid="h5e88dccag4c70g437fg8f2ag38b38b8302dc" version="1">Fury of the Small</content>
+	<content contentuid="h5b9ac58cg0e4ag4b15g8c35gc2ab75b3026d" version="1">The amount of times you can use this Racial ability.</content>
+
+</contentList>

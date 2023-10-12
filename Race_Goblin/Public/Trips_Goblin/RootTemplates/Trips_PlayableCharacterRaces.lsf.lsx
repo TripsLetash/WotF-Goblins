@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="2" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!--Player-->
+				<!--Goblin Male-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b0b28a0-a0ed-493a-90df-e8e0bf140f80" />
+					<attribute id="Icon" type="FixedString" value="e2af3f8b-da6a-7da0-2c37-70117fc95a52-EQP_Goblin_Mace_Shield_Absolute_(Icon_Goblin_Male)" />
+					<attribute id="MapKey" type="FixedString" value="fe265954-3a3f-4ef8-ac83-6968dd48dc09" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Male" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Goblin-->
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+								</node>								
+							</children>
+						</node>
+					</children>
+				</node>
+
+				<!--Goblin Female-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="da784343-2e1a-40c6-860e-476cbe109074" />
+					<attribute id="Icon" type="FixedString" value="489f1d37-b11b-1894-247a-9e8a1feb3454-EQP_Goblin_Scimitar_(Icon_Goblin_Female)" />
+					<attribute id="MapKey" type="FixedString" value="5981632e-1499-4548-b0c3-b1d094201dba" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Female" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinFemale" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />	
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag"> <!--Rare-->
+									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
+								</node>		
+								<node id="Tag"> <!--Tadpoled-->
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+								</node>		
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Changeling-->
+									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
+								</node>
+								<node id="Tag"><!--Goblin-->
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+								</node>								
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

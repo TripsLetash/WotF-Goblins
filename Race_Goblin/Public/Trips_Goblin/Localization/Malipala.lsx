@@ -1,0 +1,1721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="7" build="400" />
+	<region id="TranslatedStringKeys">
+		<node id="TranslatedStringKeys">
+			<children>
+
+
+
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7af8e464-d1a0-4e37-9afd-00e4648a90a2" version="3" />
+					<attribute id="UUID" type="FixedString" value="OriginASI_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f12df7ca-6fe1-4ca1-ac74-5dc8ee2fc117" version="3" />
+					<attribute id="UUID" type="FixedString" value="OriginASI_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="31c0833f-c981-4297-abb3-3bd049b9b252" version="3" />
+					<attribute id="UUID" type="FixedString" value="Piercings_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="03bcb91e-bb25-4fb6-abff-05e6c9dbc12b" version="3" />
+					<attribute id="UUID" type="FixedString" value="Piercings_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="22b2a87d-d5de-4f19-a14a-4dec24ea39d3" version="3" />
+					<attribute id="UUID" type="FixedString" value="InnateSpellcasting_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2fd35d84-b4d0-412f-be24-5a6952542d0e" version="3" />
+					<attribute id="UUID" type="FixedString" value="InnateSpellcasting_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="20e5a69a-f844-427d-a267-daf402af5aa2" version="3" />
+					<attribute id="UUID" type="FixedString" value="OriginProficiencies_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f2b53615-f8c3-4029-8e84-c5f7146a8e96" version="3" />
+					<attribute id="UUID" type="FixedString" value="OriginProficiencies_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="1fc97b18-21dd-4712-9743-2b5cd272d22e" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aphaelon_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f12df7ca-6fe1-4ca1-ac74-5dc8ee2fc117" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aphaelon_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="39ab8178-a154-4521-a3cd-5c0de8ec093d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Beleth_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ead0dcce-85ff-4d27-842c-16c5cf69f559" version="3" />
+					<attribute id="UUID" type="FixedString" value="Beleth_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="81df8b55-2ade-419f-931b-d26ed710dbf1" version="3" />
+					<attribute id="UUID" type="FixedString" value="Malikir_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4c35475f-a1d1-41c1-b9a4-2ad769f1f42b" version="3" />
+					<attribute id="UUID" type="FixedString" value="Malikir_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="60d5b4fc-0481-4558-8054-20ef9297446b" version="3" />
+					<attribute id="UUID" type="FixedString" value="Venin_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="14e0db22-6993-4c53-9a61-a9ef3333f1ec" version="3" />
+					<attribute id="UUID" type="FixedString" value="Venin_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4972fcc1-798d-4fde-a8f2-508259aff045" version="3" />
+					<attribute id="UUID" type="FixedString" value="Tormach_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6e9849cb-3d79-4c87-960a-ae5ce5f40c8d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Tormach_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="1656c83c-75c7-4453-a7f7-9b938149bdc6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Sitri_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="d3879738-f9d9-429e-97ac-ac3166e60193" version="3" />
+					<attribute id="UUID" type="FixedString" value="Sitri_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="81401091-0458-44fa-a965-0f1fdbe9c6b9" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gorodyn_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="06bc21df-5551-49fe-a43f-9da956ca8a80" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gorodyn_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="750be712-fa39-4d70-93fb-aa44956a60d1" version="3" />
+					<attribute id="UUID" type="FixedString" value="LadyMorrakesh_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>				
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="65a7b731-afc1-489c-8b61-b687a4a68078" version="3" />
+					<attribute id="UUID" type="FixedString" value="LadyMorrakesh_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="12ae4623-d3c7-424d-a700-9523d197b64c" version="3" />
+					<attribute id="UUID" type="FixedString" value="Alondo_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ca6ee0a4-5a8c-44b2-86da-599a9bd7d815" version="3" />
+					<attribute id="UUID" type="FixedString" value="Alondo_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b4f6cfb6-fc7d-41ab-b5c1-24ec2b1f309a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Citrolach_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c3963f3c-3545-4c2d-934f-a35835d42928" version="3" />
+					<attribute id="UUID" type="FixedString" value="Citrolach_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>				
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="8bdb96f0-074a-4cb4-b9f7-0186a2d19ca0" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ilhara_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f1e2b7a2-be0c-43e2-ba1a-e6b0037c5e28" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ilhara_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b136b80f-1232-4883-9ca0-29772d3160cc" version="3" />
+					<attribute id="UUID" type="FixedString" value="FeyBlessed_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="49761741-50f0-4246-b116-1c09f62949fe" version="3" />
+					<attribute id="UUID" type="FixedString" value="FeyBlessed_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5498e741-565a-4157-acfa-c38e86d71cb8" version="3" />
+					<attribute id="UUID" type="FixedString" value="LapsedInquisitor_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>				
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="63ebb21b-9a17-4763-b845-115e13570b2c" version="3" />
+					<attribute id="UUID" type="FixedString" value="LapsedInquisitor_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="192e601a-b440-4d83-9835-ae049dcf4b8f" version="3" />
+					<attribute id="UUID" type="FixedString" value="OneoftheTaken_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9d64c8cc-cffb-4cd5-ac18-75fabcaf8f9e" version="3" />
+					<attribute id="UUID" type="FixedString" value="OneoftheTaken_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ba341ede-cdca-4c59-9c38-804659813122" version="3" />
+					<attribute id="UUID" type="FixedString" value="FactionAgent_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5cbad2f2-1c0e-42e8-9613-1ec467fa928f" version="3" />
+					<attribute id="UUID" type="FixedString" value="FactionAgent_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>				
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="dc78b8ec-4e80-4c68-8a16-00d34b75fdeb" version="3" />
+					<attribute id="UUID" type="FixedString" value="HauntedOne_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="de48cd8b-d4df-4ddd-a9b3-00d3af0b913c" version="3" />
+					<attribute id="UUID" type="FixedString" value="HauntedOne_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="03aa0652-7969-4998-b926-e776f57cd3da" version="3" />
+					<attribute id="UUID" type="FixedString" value="WitchlightHand_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2848baea-4107-423e-950f-ccc7f651a6cf" version="3" />
+					<attribute id="UUID" type="FixedString" value="WitchlightHand_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+
+
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b15880b0-047a-4b1c-a02f-6f92e5a14aff" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aasimar_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="bac8e724-d98a-4bb6-9cab-9925331770cd" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aasimar_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>				
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2439d444-27e0-4f6b-ad67-52457f5c653e" version="3" />
+					<attribute id="UUID" type="FixedString" value="CelestialRevelation_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7b6db752-52bc-438b-bb2d-2d795c3f74c6" version="3" />
+					<attribute id="UUID" type="FixedString" value="CelestialRevelation_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>			
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="650b2251-a1b9-4247-a7e5-c37cbd54bc99" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aasimar_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>		
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0a3a09f9-0265-41a0-bf16-54e953e8db39" version="3" />
+					<attribute id="UUID" type="FixedString" value="AstralElf_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4e130443-954f-492a-9876-f6d91f1fcaab" version="3" />
+					<attribute id="UUID" type="FixedString" value="AstralElf_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="1eeed4bf-401f-466d-9388-3b3f6b3b15ee" version="3" />
+					<attribute id="UUID" type="FixedString" value="AstralElf_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="550985df-0462-4b7b-bfc5-2a1ce5c49faf" version="3" />
+					<attribute id="UUID" type="FixedString" value="AstralFire_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c3000112-e65f-4822-ab51-e6f1b78b81c7" version="3" />
+					<attribute id="UUID" type="FixedString" value="AstralFire_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="06a2684d-5648-4768-b217-5f40451cf029" version="3" />
+					<attribute id="UUID" type="FixedString" value="RadiantSoul_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0fcfbafd-7a0c-4e21-8979-dd5f4b00d417" version="3" />
+					<attribute id="UUID" type="FixedString" value="RadiantSoul_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4125a224-36ff-436a-b52c-f92a3b0484b8" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gith_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a43ed2ec-db62-41ab-96d2-5ef7998b2d95" version="3" />
+					<attribute id="UUID" type="FixedString" value="Githzerai_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e5bd4a0e-fcb8-4678-a47e-ad8dabfc686d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Githzerai_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cfc2a5ab-4c54-47fd-8d75-1c9ab97aa521" version="3" />
+					<attribute id="UUID" type="FixedString" value="Genasi_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ef269b76-49ce-48ac-a9a8-cf0125ae7478" version="3" />
+					<attribute id="UUID" type="FixedString" value="AirGenasi_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0c70fe07-2213-47d2-a79a-f1c903a16d62" version="3" />
+					<attribute id="UUID" type="FixedString" value="AirGenasi_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="57c93ce2-598e-4548-bcb6-876622d291e1" version="3" />
+					<attribute id="UUID" type="FixedString" value="EarthGenasi_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b26b2c64-c4ed-4c11-8bf4-7100adee7cf8" version="3" />
+					<attribute id="UUID" type="FixedString" value="EarthGenasi_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="026e89c0-bab8-40e8-a03d-250c58b35ec6" version="3" />
+					<attribute id="UUID" type="FixedString" value="FireGenasi_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="00255e29-ef34-4ad0-bc53-79be8bb026a6" version="3" />
+					<attribute id="UUID" type="FixedString" value="FireGenasi_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="170b1a02-d244-42de-be08-0f5a19da3744" version="3" />
+					<attribute id="UUID" type="FixedString" value="WaterGenasi_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2b57fbe2-a4f4-4506-98c4-6e2347b982cf" version="3" />
+					<attribute id="UUID" type="FixedString" value="WaterGenasi_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="851c4eab-5479-427b-ad44-a957436966c0" version="3" />
+					<attribute id="UUID" type="FixedString" value="Eladrin_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="61095697-bc57-4b33-a8f8-a16c2f3fef81" version="3" />
+					<attribute id="UUID" type="FixedString" value="Eladrin_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2e10dfe0-36ef-4541-ba49-74682f29627e" version="3" />
+					<attribute id="UUID" type="FixedString" value="FeyStep_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="32425eae-69a5-4946-9f87-03f959b4e963" version="3" />
+					<attribute id="UUID" type="FixedString" value="FeyStep_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b490898e-3c67-48a9-bcd1-eb91a6ce7467" version="3" />
+					<attribute id="UUID" type="FixedString" value="Changeling_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b490898e-3c67-48a9-bcd1-eb91a6ce7467" version="3" />
+					<attribute id="UUID" type="FixedString" value="Changeling_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="695f945f-c5bd-4139-a4d9-4d9ed48e3e69" version="3" />
+					<attribute id="UUID" type="FixedString" value="Changeling_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="aa0ce888-6b0f-4c78-8634-fb5a5e620071" version="3" />
+					<attribute id="UUID" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_268_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="156d8070-f77a-452f-8519-85c76c386548" version="3" />
+					<attribute id="UUID" type="FixedString" value="ShadarKai_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3742a7b9-b873-4e03-b6a1-6987e3320b04" version="3" />
+					<attribute id="UUID" type="FixedString" value="ShadarKai_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e0eb6ae2-3f55-4737-ac42-e0763ab36b4a" version="3" />
+					<attribute id="UUID" type="FixedString" value="PallidElf_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="158a64e0-e342-4260-a73f-ffd4df04b02c" version="3" />
+					<attribute id="UUID" type="FixedString" value="PallidElf_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f4128245-16d1-4c53-ac5d-6c145540626b" version="3" />
+					<attribute id="UUID" type="FixedString" value="SeaElf_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6c94fdd4-d4b2-44dc-a3de-ee3db6a7d9ee" version="3" />
+					<attribute id="UUID" type="FixedString" value="SeaElf_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="220bf876-967f-48c9-88fb-6063b11e0fec" version="3" />
+					<attribute id="UUID" type="FixedString" value="Lineages_Race" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="789d46ee-ee40-4bff-9ebc-76227aa95684" version="3" />
+					<attribute id="UUID" type="FixedString" value="Lineages_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ad2b4834-a543-4f21-8605-c4cf15597e0d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dhampir_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e570d9ae-7f96-451d-8703-9b9f2788e281" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dhampir_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="80ddd168-a921-4f6b-9efd-63da842ec89a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Deathless_Passive_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0f6c6470-3b5c-41a2-8f81-5d02f3220cd5" version="3" />
+					<attribute id="UUID" type="FixedString" value="Deathless_Passive_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h126089ebg7f3eg4ee1g9bcag73406fa97d22" version="3" />
+					<attribute id="UUID" type="FixedString" value="Empowered_Bite_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="h054af242ged4dg4220g9d3fg025bbd356a97" version="3" />
+					<attribute id="UUID" type="FixedString" value="Empowered_Bite_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a11e606f-b29d-4f97-abad-b48eade06932" version="3" />
+					<attribute id="UUID" type="FixedString" value="Reborn_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b20e02d1-7d63-468f-8cf3-f089238c11b6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Reborn_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="fa1a8088-26e3-48f4-91a5-6b5ecffd2ee5" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hexblood_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f3efe488-9001-419e-bbc7-cb73d1604847" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hexblood_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="36ee15b6-930b-4260-a44f-239b9823f628" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gnome_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="bf175981-a2bc-41f5-925d-b09007555d13" version="3" />
+					<attribute id="UUID" type="FixedString" value="DeepGnome_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="be34457b-3c63-4820-8cdf-96d1987231bb" version="3" />
+					<attribute id="UUID" type="FixedString" value="DeepGnome_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="639e53ef-46ac-467c-b411-a877a3db4f26" version="3" />
+					<attribute id="UUID" type="FixedString" value="ForestGnome_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3830257d-952c-44ea-87f7-679a6fd7eb28" version="3" />
+					<attribute id="UUID" type="FixedString" value="ForestGnome_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f2c739df-7317-434b-a62c-25e2a4068a3b" version="3" />
+					<attribute id="UUID" type="FixedString" value="RockGnome_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="809294b2-41de-47dd-8107-4c18d7893f55" version="3" />
+					<attribute id="UUID" type="FixedString" value="RockGnome_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e04674c6-5426-4ad7-8218-d70d69a6c96f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Yuanti_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="046d79aa-5f9d-40b5-921b-406b6f78f93d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Yuanti_SubRace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9ceef905-315b-4148-8850-86b882fdca3d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Yuanti_SubRace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a39d963d-6040-40ee-b609-888304aa2b5e" version="3" />
+					<attribute id="UUID" type="FixedString" value="SerpentineSpellcasting_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e814f739-ceec-4e2b-b019-6d9f43b25fda" version="3" />
+					<attribute id="UUID" type="FixedString" value="SerpentineSpellcasting_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5f0531ea-1db8-49bd-a9f6-a080ae828c07" version="3" />
+					<attribute id="UUID" type="FixedString" value="YuantiPureBlood_SubRace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a155368d-619e-4adc-bdee-d2d9a9f1875f" version="3" />
+					<attribute id="UUID" type="FixedString" value="YuantiPureBlood_SubRace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="95b2aa6f-5228-414b-b90d-888d92506358" version="3" />
+					<attribute id="UUID" type="FixedString" value="SerpentineScale_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f58d925b-b95a-42b1-8f50-5b3931e59bb1" version="3" />
+					<attribute id="UUID" type="FixedString" value="SerpentineScale_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4d1da568-3aa9-4c84-af36-5dc0d252da9d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kalashtar_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f8dc8ad7-8986-4899-b00e-e15e1ff4401a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kalashtar_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="118319c4-b018-4f8d-bcd3-c0b62bbe2970" version="3" />
+					<attribute id="UUID" type="FixedString" value="Goblin_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="118319c4-b018-4f8d-bcd3-c0b62bbe2970" version="3" />
+					<attribute id="UUID" type="FixedString" value="Goblin_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7ed07e74-fce0-442b-b94c-4fbac174fdb6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Goblin_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="fee93e9d-c2a8-423e-ae46-898f368dfc57" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hobgoblin_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="fee93e9d-c2a8-423e-ae46-898f368dfc57" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hobgoblin_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a752b1c5-e9bc-4741-94a0-60f4b7f54582" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hobgoblin_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="73fbbd87-f354-4c92-820c-d0946f596e23" version="3" />
+					<attribute id="UUID" type="FixedString" value="Bugbear_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="73fbbd87-f354-4c92-820c-d0946f596e23" version="3" />
+					<attribute id="UUID" type="FixedString" value="Bugbear_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ff92e8b5-46ac-441a-b2f3-f79442c8f048" version="3" />
+					<attribute id="UUID" type="FixedString" value="Bugbear_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="85b50615-17d2-4a9f-aa94-10da6e4e86f7" version="3" />
+					<attribute id="UUID" type="FixedString" value="Shifter_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="85b50615-17d2-4a9f-aa94-10da6e4e86f7" version="3" />
+					<attribute id="UUID" type="FixedString" value="Shifter_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ab05f6eb-f67d-48f8-8f66-e2199a57147f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Shifter_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c5cce9c5-8451-43b8-9a88-e1c2ed2815cf" version="3" />
+					<attribute id="UUID" type="FixedString" value="Minotaur_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c5cce9c5-8451-43b8-9a88-e1c2ed2815cf" version="3" />
+					<attribute id="UUID" type="FixedString" value="Minotaur_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="50d025e6-9438-4272-9c40-c328b7930e7c" version="3" />
+					<attribute id="UUID" type="FixedString" value="Minotaur_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ceef2de0-791d-46e4-8242-a11789cec4bc" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dragonborn_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="10bee14e-2192-4db1-a564-7823fb48ab35" version="3" />
+					<attribute id="UUID" type="FixedString" value="Chromatic_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="56265b8c-f38e-47b8-a9a6-91a2adc44816" version="3" />
+					<attribute id="UUID" type="FixedString" value="Chromatic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c69a1f26-9d9d-4ad0-8101-9d04f7c61cde" version="3" />
+					<attribute id="UUID" type="FixedString" value="Draconblood_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c70b04dc-176c-4cd9-a9b5-2bc496542df1" version="3" />
+					<attribute id="UUID" type="FixedString" value="Draconblood_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3762d786-6228-4d42-b70e-0dc309946146" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gem_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cae7d4aa-6b56-434c-8fbf-70acb49396aa" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gem_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7cb52ec5-8e31-45c1-94ad-e724dd72863d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Metallic_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="fd9a6f2b-8ae2-4bb5-9fcc-076bbd8fec22" version="3" />
+					<attribute id="UUID" type="FixedString" value="Metallic_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6e6aa54a-16b9-4d70-b8ec-be9a58ae6844" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ravenites_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="abff3920-4359-4e83-8be8-cf700dc07267" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ravenites_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9167c1b6-04a2-4f8c-ac6f-ce53a07f8fd0" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dragontouched_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3fa65653-2bda-4c20-b9d3-cdfaad7f97d1" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dragontouched_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7acaa6c5-05e1-4a0b-8a90-3e4122750fdc" version="3" />
+					<attribute id="UUID" type="FixedString" value="Orc_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7acaa6c5-05e1-4a0b-8a90-3e4122750fdc" version="3" />
+					<attribute id="UUID" type="FixedString" value="Orc_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a8f5cd3e-498a-4f84-b390-4c404894e696" version="3" />
+					<attribute id="UUID" type="FixedString" value="Orc_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="090b5a76-dc36-44b1-9387-ddee5fbe08be" version="3" />
+					<attribute id="UUID" type="FixedString" value="HalfOrc_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="090b5a76-dc36-44b1-9387-ddee5fbe08be" version="3" />
+					<attribute id="UUID" type="FixedString" value="HalfOrc_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="83f728ad-d082-4045-a6d3-e8a48658b3dc" version="3" />
+					<attribute id="UUID" type="FixedString" value="HalfOrc_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3ae2fbc1-5682-4e9a-9cbc-48d795dcc1e3" version="3" />
+					<attribute id="UUID" type="FixedString" value="Goliath_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2ca8a1f2-755e-442c-9ad4-e95205c171d1" version="3" />
+					<attribute id="UUID" type="FixedString" value="Goliath_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6ce23b91-dbb4-45a8-bf78-28ad54d1ac51" version="3" />
+					<attribute id="UUID" type="FixedString" value="Verdan_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a9e7182c-2906-47d7-a762-b67adfae6560" version="3" />
+					<attribute id="UUID" type="FixedString" value="Verdan_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="090b5a76-dc36-44b1-9387-ddee5fbe08be" version="3" />
+					<attribute id="UUID" type="FixedString" value="Triton_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="83f728ad-d082-4045-a6d3-e8a48658b3dc" version="3" />
+					<attribute id="UUID" type="FixedString" value="Triton_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f03d29a4-63cc-4d2f-b651-80aa28e11619" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ardling_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="22ab16fa-f6fb-4f5f-93d0-7fca24b1cbba" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ardling_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f4e9d45c-8689-49d2-8288-436f527a04f4" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kender_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="edace02f-715c-4e3f-8511-cc7e7ef7998b" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kender_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="730d8c9f-b41c-40b8-a89e-47426f795348" version="3" />
+					<attribute id="UUID" type="FixedString" value="Baalzebul_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2c9c7de5-c791-43e1-afd9-b69d81a55c47" version="3" />
+					<attribute id="UUID" type="FixedString" value="Baalzebul_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="fa394409-cd3f-430c-8013-77db2bf07bc6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dispater_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="15c7c85b-420c-4c5e-b5df-1024ca4a03f5" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dispater_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a5dbff82-5148-43f1-91d9-22079f8f3bf2" version="3" />
+					<attribute id="UUID" type="FixedString" value="Fierna_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a071a510-0ac4-442c-8ccc-23bac6fe1076" version="3" />
+					<attribute id="UUID" type="FixedString" value="Fierna_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c4c47943-b869-4807-8b3d-41cb5b1e9321" version="3" />
+					<attribute id="UUID" type="FixedString" value="Glasya_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6106e049-f2e0-4a94-9ca2-de0ed57d8ee6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Glasya_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="040eaa9d-2232-4688-b4d9-a9d43755d49d" version="3" />
+					<attribute id="UUID" type="FixedString" value="Levistus_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="d94af5da-9609-4e46-a2f5-049669c67867" version="3" />
+					<attribute id="UUID" type="FixedString" value="Levistus_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+
+
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cf3539e3-b0e0-46c7-93ed-576bf18f5238" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ogresh_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cf3539e3-b0e0-46c7-93ed-576bf18f5238" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ogresh_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="63f7f512-f11a-4162-9a65-3f1771e454f3" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ogresh_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="70d9c09d-7a87-4a46-a2e6-8705e30161d1" version="3" />
+					<attribute id="UUID" type="FixedString" value="Disembodied_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9fc71c00-832e-4091-be32-5237cfe865ea" version="3" />
+					<attribute id="UUID" type="FixedString" value="Disembodied_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cb14cb38-2797-4e31-81bb-8cf822de7cf4" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dreamers_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="d1c8f7a6-2bb7-498c-8e5d-1c1bf0a81d25" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dreamers_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f2cbfa25-ea25-46e8-9b12-14c81dacb187" version="3" />
+					<attribute id="UUID" type="FixedString" value="Downcast_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="60e0658d-8554-4944-8e72-ab2b1e2f04f2" version="3" />
+					<attribute id="UUID" type="FixedString" value="ArchSeraphOrigin_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>					
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="4bfe3cf0-1ea1-4baf-a24c-cb2d181499b8" version="3" />
+					<attribute id="UUID" type="FixedString" value="Lingering_Divinity_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="80ddd168-a921-4f6b-9efd-63da842ec89a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Lingering_Divinity_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3e29c8e0-d303-45c3-92ab-3aa8b68d13d6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aurelian_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="146ca1ae-82a8-40c8-bd44-9d34a353122f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Aurelian_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2b1f3cc6-c609-442a-9aa8-3a3b51b742a3" version="3" />
+					<attribute id="UUID" type="FixedString" value="Laneshi_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="56c54180-2ed2-416d-b906-2d09b1f6f192" version="3" />
+					<attribute id="UUID" type="FixedString" value="LaneshiWarrior_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="938505cf-cba8-4041-9af8-cd5db8f38500" version="3" />
+					<attribute id="UUID" type="FixedString" value="LaneshiWarrior_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="8feac203-d36f-4273-86ca-7fe0a2e37338" version="3" />
+					<attribute id="UUID" type="FixedString" value="LaneshiMystic_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="938505cf-cba8-4041-9af8-cd5db8f38500" version="3" />
+					<attribute id="UUID" type="FixedString" value="LaneshiMystic_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b8ff21ab-c46f-4c41-92fa-57013423b290" version="3" />
+					<attribute id="UUID" type="FixedString" value="Mušḫuššu_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f9501f44-520c-44be-bbf7-da5818c31164" version="3" />
+					<attribute id="UUID" type="FixedString" value="YuantiMušḫuššu_SubRace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c7676889-24b3-4d62-a909-ff4d55ed255f" version="3" />
+					<attribute id="UUID" type="FixedString" value="YuantiMušḫuššu_SubRace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9ba30670-fada-4328-b48f-7d7a0d15fb68" version="3" />
+					<attribute id="UUID" type="FixedString" value="MušḫuššuVisage_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c7676889-24b3-4d62-a909-ff4d55ed255f" version="3" />
+					<attribute id="UUID" type="FixedString" value="MušḫuššuVisage_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b795ac1c-706b-401a-844f-1a1ecbe9b89f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dhampyr_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0b5fc715-a4da-4124-8524-72c8616de10f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dhampyr_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5d393a85-1792-47d6-9978-562f5782e24b" version="3" />
+					<attribute id="UUID" type="FixedString" value="BloodlineInheritance_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="eeaf9a72-2734-46ba-84d7-3e0172c77cb4" version="3" />
+					<attribute id="UUID" type="FixedString" value="BloodlineInheritance_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6cc4af0b-a87d-4f2a-ad20-ee9e49cd2681" version="3" />
+					<attribute id="UUID" type="FixedString" value="DhampyrVariant_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a4bb3021-22f6-4264-8856-0c5d70d6ed14" version="3" />
+					<attribute id="UUID" type="FixedString" value="DhampyrVariant_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7343b93b-57fd-4180-bb01-43339db697ce" version="3" />
+					<attribute id="UUID" type="FixedString" value="Malformed_Race" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2f691540-8e1c-43e5-8eef-e0bd269e6ecf" version="3" />
+					<attribute id="UUID" type="FixedString" value="Malformed_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5d393a85-1792-47d6-9978-562f5782e24b" version="3" />
+					<attribute id="UUID" type="FixedString" value="Malformed_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="8cf5cc95-4e14-4329-acdd-6900cc3bb353" version="3" />
+					<attribute id="UUID" type="FixedString" value="MalipalaElves_Race" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="7a8e8664-6e19-4be0-84ca-5c0e43891217" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hematokai_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="37af85be-12dd-48c4-889c-dffe1df78d1e" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hematokai_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="b532b025-bc25-458d-b9a8-85bec0debfb2" version="3" />
+					<attribute id="UUID" type="FixedString" value="DuskElf_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="49bc5644-b834-4c28-8581-a5a28f4ee32d" version="3" />
+					<attribute id="UUID" type="FixedString" value="DuskElf_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="d94b91a0-1e6d-4cdb-b1a0-18e4689be052" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kresnik_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="28554a78-6503-4b17-ab16-e6b379c475ed" version="3" />
+					<attribute id="UUID" type="FixedString" value="Kresnik_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c9c8d7bc-cef0-4453-aa23-99bce22cbe40" version="3" />
+					<attribute id="UUID" type="FixedString" value="Magic_Resistance_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a538cdb3-5490-4c8c-97bf-4c909b11593e" version="3" />
+					<attribute id="UUID" type="FixedString" value="Magic_Resistance_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="aec35096-e569-417f-9976-6b2db3c61157" version="3" />
+					<attribute id="UUID" type="FixedString" value="Flicker_Step_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a538cdb3-5490-4c8c-97bf-4c909b11593e" version="3" />
+					<attribute id="UUID" type="FixedString" value="Flicker_Step_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="aec35096-e569-417f-9976-6b2db3c61157" version="3" />
+					<attribute id="UUID" type="FixedString" value="Sanguine_Preservation_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a538cdb3-5490-4c8c-97bf-4c909b11593e" version="3" />
+					<attribute id="UUID" type="FixedString" value="Sanguine_Preservation_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cd9a24ec-97ca-43ed-8164-bb2c0796139a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Tydelvian_Race" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cd9a24ec-97ca-43ed-8164-bb2c0796139a" version="3" />
+					<attribute id="UUID" type="FixedString" value="Tydelvian_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="563857be-0156-4235-a528-4c08ab8072a5" version="3" />
+					<attribute id="UUID" type="FixedString" value="Tydelvian_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ba801ef6-69f2-404c-8408-3de354732e6c" version="3" />
+					<attribute id="UUID" type="FixedString" value="Nephilim_DispName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="debb4b86-24d5-4694-8686-5625ddbd27e0" version="3" />
+					<attribute id="UUID" type="FixedString" value="Nephilim_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6332b6f0-749e-41af-9fd6-bdb7bb085176" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6332b6f0-749e-41af-9fd6-bdb7bb085176" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f80c46ca-16fb-4b74-a7ce-135a1fed8d47" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6332b6f0-749e-41af-9fd6-bdb7bb085176" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6332b6f0-749e-41af-9fd6-bdb7bb085176" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f80c46ca-16fb-4b74-a7ce-135a1fed8d47" version="3" />
+					<attribute id="UUID" type="FixedString" value="Gwŷddpāla_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="5e0ab8a6-2c60-414d-a05f-f9a11c400507" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dracodrin_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e7544d5b-726e-4ea3-b333-711f5648ff4a" version="3" />
+					<attribute id="UUID" type="FixedString" value="DracodrinBoon_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="94fa7ad1-805f-40ba-92b4-de2145d1ab2d" version="3" />
+					<attribute id="UUID" type="FixedString" value="DracodrinBoon_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cc938923-e7ee-494c-8223-0806c21d95c9" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dracodrin_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="10f859f1-c059-4d1f-9ef8-409edb8dc284" version="3" />
+					<attribute id="UUID" type="FixedString" value="Dracodrin_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="a93aff78-6425-4a2f-9a55-196afbb42aba" version="3" />
+					<attribute id="UUID" type="FixedString" value="AncestralBoon_Name1" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="6f14a9f3-8921-4f19-bb83-fd90c809f894" version="3" />
+					<attribute id="UUID" type="FixedString" value="AncestralBoon_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="0a7e156a-35f6-4325-8626-3a8872b81d80" version="3" />
+					<attribute id="UUID" type="FixedString" value="Leszi_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="1edbec7a-af4b-44ad-bd60-982ba9f50f6c" version="3" />
+					<attribute id="UUID" type="FixedString" value="Leszi_Race_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="80fbb33c-7a64-4b6e-b9ae-d755e6b144e6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ἄskios_Race_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="80fbb33c-7a64-4b6e-b9ae-d755e6b144e6" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ἄskios_Subrace_Name" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="dfaac4b9-12a0-432a-853d-d46384d94a9c" version="3" />
+					<attribute id="UUID" type="FixedString" value="Ἄskios_Subrace_Desc" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="ba0afc88-147f-44de-982a-3c20e293874f" version="3" />
+					<attribute id="UUID" type="FixedString" value="Viera_Race" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>	
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="9fc54e01-0bea-4b35-9e94-0704b64faf25" version="3" />
+					<attribute id="UUID" type="FixedString" value="Viera_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="c37342f3-2be4-44d0-a41e-521991900314" version="3" />
+					<attribute id="UUID" type="FixedString" value="Viera_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="2c8581a5-7e89-4dac-9a1c-dea3bf19e457" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hyur_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="cf9ff05d-d9fa-4e6d-8489-1c667a2e0cfc" version="3" />
+					<attribute id="UUID" type="FixedString" value="Hyur_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+
+
+
+
+
+			</children>
+		</node>
+	</region>
+</save>
