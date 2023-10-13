@@ -8,6 +8,9 @@
 
 
 	<content contentuid="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1">Goblin Head 1</content>
+	<content contentuid="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1">Goblin Head 2</content>
+	<content contentuid="h99c7c023g6beag4c13gace4gb57bbf7cd7fb" version="1">Goblin Head 3</content>
+	<content contentuid="hefb17929gb996g42aagbd95g0a7dcf98a3df" version="1">Goblin Head 4</content>
 
 	<content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Darkvision</content>
 	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>	
@@ -18,4 +21,6 @@
 	<content contentuid="hb6c131a5g020bg4339g9736ge47a222f7d13" version="1">You can take the Disengage or Hide action as a bonus action on each of your turns.</content>	
 	<content contentuid="h5b9ac58cg0e4ag4b15g8c35gc2ab75b3026d" version="1">You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</content>
 
+	<content contentuid="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1">Ol' Shiny</content>
+	<content contentuid="h423af4b3gb909g49a0ga6beg17620cf9ed09" version="1">Both shunned and adored by his kind for his magical prowess, this elderly Goblin seeks a new life of adventure and wonder!</content>
 </contentList>

@@ -6,7 +6,16 @@
 			<children>
 				<node id="entries">
 					<children>
-
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/991887aa-4771-44f8-87e7-1074ad5fafd2-_(Icon_Ol_Shiny).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 			</children>

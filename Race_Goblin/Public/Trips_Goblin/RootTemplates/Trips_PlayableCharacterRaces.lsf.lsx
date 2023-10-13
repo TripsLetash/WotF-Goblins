@@ -4,6 +4,35 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+				<!--Hireling Ol; Shiny-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1a74daba-8014-40cc-aaa3-8e97353eb98c" />
+					<attribute id="Icon" type="FixedString" value="991887aa-4771-44f8-87e7-1074ad5fafd2-_(Icon_Ol_Shiny)" />
+					<attribute id="MapKey" type="FixedString" value="1215e534-4fe5-4ea1-a449-8f2307e1939c" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_OlShiny" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="Tags">
+							<children>
+
+								<node id="Tag"><!--Humanoid-->
+									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
+								</node>		
+								<node id="Tag"><!--Goblin-->
+									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+								</node>								
+							</children>
+						</node>
+					</children>
+				</node>
 				<!--Player-->
 				<!--Goblin Male-->
 				<node id="GameObjects">
@@ -23,18 +52,13 @@
 					<children>
 						<node id="Tags">
 							<children>
-								<node id="Tag"> <!--Rare-->
-									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
-								</node>		
+	
 								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>		
 								<node id="Tag"><!--Humanoid-->
 									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
 								</node>		
-								<node id="Tag"><!--Changeling-->
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
-								</node>
 								<node id="Tag"><!--Goblin-->
 									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 								</node>								
@@ -61,18 +85,13 @@
 					<children>
 						<node id="Tags">
 							<children>
-								<node id="Tag"> <!--Rare-->
-									<attribute id="Object" type="guid" value="987a41e3-2482-4c74-8c30-f3843cfdb7f3" />
-								</node>		
+
 								<node id="Tag"> <!--Tadpoled-->
 									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
 								</node>		
 								<node id="Tag"><!--Humanoid-->
 									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
 								</node>		
-								<node id="Tag"><!--Changeling-->
-									<attribute id="Object" type="guid" value="1e41a68b-ee38-490c-940a-a544e1c92fe3" />
-								</node>
 								<node id="Tag"><!--Goblin-->
 									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 								</node>								
