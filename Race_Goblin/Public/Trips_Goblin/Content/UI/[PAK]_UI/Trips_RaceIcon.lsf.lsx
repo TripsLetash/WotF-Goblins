@@ -5,13 +5,13 @@
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="f307007b-5446-4dc4-8aa0-015523f6bab0" />
+					<attribute id="ID" type="FixedString" value="4124afed-503b-480f-914c-ed83ffb891a6" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_Race_Icons" />
+					<attribute id="Name" type="LSString" value="Trips_Goblins_Race_Icons" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Trips_Changeling/Assets/Textures/Icons/Trips_Goblin_Race_Icons.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Goblin/Assets/Textures/Icons/Trips_Goblins_Race_Icons.dds" />
 					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Icons_Spells" />
+					<attribute id="Template" type="FixedString" value="Icons_Race" />
 					<attribute id="Type" type="int64" value="0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
 				</node>

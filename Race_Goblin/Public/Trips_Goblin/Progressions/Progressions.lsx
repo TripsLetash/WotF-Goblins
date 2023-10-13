@@ -8,7 +8,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Trips_Goblin_1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_Darkvision;Trips_Gob_Immunities;Trips_Gob_Nimble_Escape;Trips_Gob_Fey;Traits;Trips_Gob_Fury_Of_The_Small"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_Darkvision;Trips_Gob_Immunities;Trips_Gob_Nimble_Escape;Trips_Gob_Fury_Of_The_Small;Trips_Gob_Fey;Traits"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value=""/>
