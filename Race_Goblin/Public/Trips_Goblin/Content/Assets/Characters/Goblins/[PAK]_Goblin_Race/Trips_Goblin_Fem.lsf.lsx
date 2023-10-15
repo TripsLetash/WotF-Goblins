@@ -3286,7 +3286,56 @@
 							<attribute id="MaterialID" type="FixedString" value="983804d4-c2fd-4fba-97cf-b3495ee81222" />
 							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Mesh.0" />
 						</node>
-
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Left_Thumb.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Left_Ring.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Left_Pinkie.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Left_Middle.4" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Left_Index.5" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Right_Thumb.6" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Right_Ring.7" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Right_Pinkie.8" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Right_Middle.9" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fb39046f-178d-4040-bb0a-5a04a84162de" />
+							<attribute id="ObjectID" type="FixedString" value="Trips_Gob_F_NKD_Body_A.Trips_Gob_F_NKD_Body_A_Right_Index.10" />
+						</node>
 						<node id="VertexColorMaskSlots">
 							<attribute id="Object" type="FixedString" value="shins" />
 						</node>
