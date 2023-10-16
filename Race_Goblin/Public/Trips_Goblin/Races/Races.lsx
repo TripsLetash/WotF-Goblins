@@ -8,24 +8,9 @@
                 <node id="Race">
                     <attribute id="Description" type="TranslatedString" handle="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1"/>           
-                    <attribute id="Name" type="FixedString" value="Trips_Goblin_Hireling"/>
-                    <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="f27d8e8b-2923-49cc-b7c8-9e94c6a5d6d5"/>     
-                    <attribute id="ParentGuid" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404"/>        
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="Humanoid"/>
-                    <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_HalfOrcs"/>
-                    <attribute id="UUID" type="guid" value="9845e114-34b8-4498-881a-f64e7ab86f59"/>
-                    <children>
-                    </children>
-                </node>
-
-                <node id="Race">
-                    <attribute id="Description" type="TranslatedString" handle="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1"/>           
                     <attribute id="Name" type="FixedString" value="Trips_Goblin"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="95653fbb-2fc7-4c6b-8027-25a5d890a376"/>     
-                    <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>        
+                    <attribute id="ProgressionTableUUID" type="guid" value="95653fbb-2fc7-4c6b-8027-25a5d890a376"/>                  
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Humanoid"/>
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Githyanki"/>
                     <attribute id="UUID" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404"/>

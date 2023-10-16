@@ -21,7 +21,7 @@
                     <attribute id="LockRace" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Hireling_Goblin"/>
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
-                    <attribute id="RaceUUID" type="guid" value="9845e114-34b8-4498-881a-f64e7ab86f59"/>
+                    <attribute id="RaceUUID" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404"/>
                     <attribute id="UUID" type="guid" value="5f3a18b6-453a-467e-a3a5-b103e1e01b31"/>
                     <attribute id="Unique" type="bool" value="true"/>
                     <attribute id="VoiceTableUUID" type="guid" value="635eea4a-a223-4f36-8788-c706713b8486"/>

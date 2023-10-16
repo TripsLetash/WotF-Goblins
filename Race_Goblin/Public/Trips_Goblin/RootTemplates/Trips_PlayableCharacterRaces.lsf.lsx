@@ -9,8 +9,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="1a74daba-8014-40cc-aaa3-8e97353eb98c" />
 					<attribute id="Icon" type="FixedString" value="991887aa-4771-44f8-87e7-1074ad5fafd2-_(Icon_Ol_Shiny)" />
 					<attribute id="MapKey" type="FixedString" value="1215e534-4fe5-4ea1-a449-8f2307e1939c" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_OlShiny" />					
-					<attribute id="DisplayName" type="TranslatedString" handle="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_OlShiny" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
@@ -18,7 +17,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Race" type="guid" value="9845e114-34b8-4498-881a-f64e7ab86f59" />
+					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="Tags">
