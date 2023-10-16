@@ -3137,6 +3137,19 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="f5756910-93b4-4fa4-86d2-b95df31580aa" />
+					<attribute id="Name" type="LSString" value="Trips_Gob_F_NKD_Body_A_NM" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Body/Trips_Gob_F_NKD_Body_A_NM.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Trips_Gob_F_NKD_Body_A_NM" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+				</node>			
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="0047e447-e502-410c-a0bc-a5079c45c638" />
 					<attribute id="Name" type="LSString" value="Trips_Gob_F_NKD_Body_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
@@ -3983,7 +3996,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="8983884b-13c0-d5e4-1bb3-76bdc7c8d984" />
+							<attribute id="ID" type="FixedString" value="f5756910-93b4-4fa4-86d2-b95df31580aa" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">

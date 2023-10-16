@@ -756,7 +756,6 @@
 						</node>
 					</children>
 				</node>
-
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="94fb3daa-14ee-b979-935d-9c6f94603235" />
 					<attribute id="BodySetVisual" type="FixedString" value="89df632f-acf5-4922-af00-40a8823b926b" />
