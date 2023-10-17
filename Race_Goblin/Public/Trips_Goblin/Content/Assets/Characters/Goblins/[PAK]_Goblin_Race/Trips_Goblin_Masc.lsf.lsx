@@ -3135,7 +3135,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="256" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="efe41d1e-bcde-4f9d-8586-7ccb49582489" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Trips_Gob_Nails_M_MSK" />
@@ -3144,12 +3144,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_Gob_Nails_M_MSK" />
 					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="128" />
+					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855920" />
 				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="256" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="d738846c-ab19-45c7-a55c-3e8b44c397e9" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Trips_Gob_Nails_M_BM" />
@@ -3158,12 +3158,12 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_Gob_Nails_M_BM" />
 					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="128" />
+					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855920" />
 				</node>
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Height" type="int32" value="256" />
+					<attribute id="Height" type="int32" value="2048" />
 					<attribute id="ID" type="FixedString" value="bd031de0-5be3-4f64-a93c-ee4fce3fd7ba" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Trips_Gob_Nails_M_NM" />
@@ -3172,7 +3172,7 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_Gob_Nails_M_NM" />
 					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="128" />
+					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855920" />
 				</node>
 				<node id="Resource">
@@ -3186,7 +3186,7 @@
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_Gob_Nails_M_PM" />
 					<attribute id="Type" type="int32" value="1" />
-					<attribute id="Width" type="int32" value="1024" />
+					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855920" />
 				</node>
 				<!--Body gob masc-->
@@ -4886,7 +4886,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="f44399ad-6593-6686-070b-798d9e65aed5" />
+							<attribute id="ID" type="FixedString" value="0fc75836-189b-4fcb-a4b8-7f5a99cb799c" />
 							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
@@ -5631,7 +5631,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="f44399ad-6593-6686-070b-798d9e65aed5" />
+							<attribute id="ID" type="FixedString" value="0fc75836-189b-4fcb-a4b8-7f5a99cb799c" />
 							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">

@@ -4,7 +4,17 @@
     <region id="CharacterCreationAccessorySets">
         <node id="root">
             <children>
-
+				<node id="CharacterCreationAccessorySet">
+                    <attribute id="CharacterCreationSet" type="bool" value="true"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Piercing"/>
+                    <attribute id="UUID" type="guid" value="bebc779d-88d0-4c83-8b06-4d3f11dc553d"/>
+                    <children>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="c2d85e16-2f37-4231-9aca-031b04472477"/>
+                        </node>						
+                    </children>
+                </node>
             </children>
         </node>
     </region>
