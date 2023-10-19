@@ -239,11 +239,6 @@
 											<attribute id="type" type="FixedString" value="Tag" />
 											<children>
 												<node id="flag">
-													<attribute id="UUID" type="FixedString" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-													<attribute id="value" type="bool" value="True" />
-													<attribute id="paramval" type="int32" value="2" />
-												</node>
-												<node id="flag">
 													<attribute id="UUID" type="FixedString" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 													<attribute id="value" type="bool" value="True" />
 													<attribute id="paramval" type="int32" value="2" />
@@ -10369,12 +10364,7 @@
 									<children>
 										<node id="flaggroup">
 											<attribute id="type" type="FixedString" value="Tag" />
-											<children>
-												<node id="flag">
-													<attribute id="UUID" type="FixedString" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-													<attribute id="value" type="bool" value="False" />
-													<attribute id="paramval" type="int32" value="2" />
-												</node>
+											<children>												
 												<node id="flag">
 													<attribute id="UUID" type="FixedString" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 													<attribute id="value" type="bool" value="False" />

@@ -4798,7 +4798,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedFSString" value="" handle="ha5c979e6gd789g4da7g8509g96e6f3748974" arguments="0" />
+															<attribute id="TagText" type="TranslatedFSString" value="" handle="hb227f9f2g780fg4e75ga631g5ae82c206671" arguments="0" />
 															<attribute id="LineId" type="guid" value="ae4d846a-84cd-32bc-eaa6-fc29e9353f8b" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -4816,9 +4816,6 @@
 																	<children>
 																		<node id="Tags">
 																			<children>
-																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-																				</node>
 																				<node id="Tag">
 																					<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 																				</node>

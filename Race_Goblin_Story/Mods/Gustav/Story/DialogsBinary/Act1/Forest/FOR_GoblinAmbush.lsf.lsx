@@ -2315,7 +2315,7 @@
 									</children>
 								</node>
 							</children>
-						</node>
+						</node>		
 						<node id="node">
 							<attribute id="constructor" type="FixedString" value="ActiveRoll" />
 							<attribute id="UUID" type="FixedString" value="9dcf4940-758a-7089-e5af-b94048e88eb5" />
@@ -2329,7 +2329,7 @@
 							<attribute id="Advantage" type="uint8" value="1" />
 							<attribute id="ExcludeCompanionsOptionalBonuses" type="bool" value="False" />
 							<attribute id="ExcludeSpeakerOptionalBonuses" type="bool" value="False" />
-							<attribute id="DifficultyClassID" type="guid" value="fa621d38-6f83-4e42-a55c-6aa651a75d46" />
+							<attribute id="DifficultyClassID" type="guid" value="8d398021-34e0-40b9-b7b2-0445f38a4c0b" />
 							<children>
 								<node id="children">
 									<children>
@@ -2356,7 +2356,7 @@
 											<attribute id="type" type="FixedString" value="Tag" />
 											<children>
 												<node id="flag">
-													<attribute id="UUID" type="FixedString" value="ab3eff19-d094-4102-88bd-d097b6b6e4f0" />
+													<attribute id="UUID" type="FixedString" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
 													<attribute id="value" type="bool" value="True" />
 													<attribute id="paramval" type="int32" value="1" />
 												</node>
@@ -2372,7 +2372,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedFSString" value="" handle="h1f10b255ge126g4590g82a8g4b835f17366f" arguments="0" />
+															<attribute id="TagText" type="TranslatedFSString" value="" handle="h286c14beg6a72g46c3gbd83g6804f991bd92" arguments="0" />
 															<attribute id="LineId" type="guid" value="4182dbe1-bd60-e4ef-79bc-5bbe8c94aa18" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -2949,10 +2949,7 @@
 																			<children>
 																				<node id="Tag">
 																					<attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-																				</node>
-																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-																				</node>
+																				</node>																			
 																			</children>
 																		</node>
 																	</children>
@@ -3530,9 +3527,7 @@
 																				<node id="Tag">
 																					<attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
 																				</node>
-																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-																				</node>
+									
 																			</children>
 																		</node>
 																	</children>

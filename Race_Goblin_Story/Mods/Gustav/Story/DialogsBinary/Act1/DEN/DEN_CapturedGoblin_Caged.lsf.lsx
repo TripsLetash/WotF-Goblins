@@ -2016,7 +2016,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedFSString" value="" handle="hadd9a2e7gcf93g4040gba6ag8fa8fa669c44" arguments="0" />
+															<attribute id="TagText" type="TranslatedFSString" value="" handle="hb227f9f2g780fg4e75ga631g5ae82c206671" arguments="0" />
 															<attribute id="LineId" type="guid" value="d0550f1c-43fe-b5e0-8a3e-e632c088a4c4" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -2035,13 +2035,7 @@
 																		<node id="Tags">
 																			<children>
 																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-																				</node>
-																				<node id="Tag">
 																					<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-																				</node>
-																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="4fa13243-199d-4c9a-b455-d844276a98f5" />
 																				</node>
 																			</children>
 																		</node>
@@ -6206,7 +6200,7 @@
 												<node id="TagTexts">
 													<children>
 														<node id="TagText">
-															<attribute id="TagText" type="TranslatedFSString" value="" handle="h2b2ec3bdg3eb6g4ae4gb7d7gb45937922f46" arguments="0" />
+															<attribute id="TagText" type="TranslatedFSString" value="" handle="hb227f9f2g780fg4e75ga631g5ae82c206671" arguments="0" />
 															<attribute id="LineId" type="guid" value="992de33d-1332-9c81-3f01-d20952bbbb0e" />
 															<attribute id="stub" type="bool" value="True" />
 														</node>
@@ -6225,13 +6219,7 @@
 																		<node id="Tags">
 																			<children>
 																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c" />
-																				</node>
-																				<node id="Tag">
 																					<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-																				</node>
-																				<node id="Tag">
-																					<attribute id="Object" type="guid" value="4fa13243-199d-4c9a-b455-d844276a98f5" />
 																				</node>
 																			</children>
 																		</node>

@@ -20,17 +20,6 @@
 					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
-						<node id="Tags">
-							<children>
-
-								<node id="Tag"><!--Humanoid-->
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
-								</node>		
-								<node id="Tag"><!--Goblin-->
-									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>			
-							</children>
-						</node>
 					</children>
 				</node>
 				<!--Player-->
@@ -50,20 +39,6 @@
 					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
-						<node id="Tags">
-							<children>
-	
-								<node id="Tag"> <!--Tadpoled-->
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>		
-								<node id="Tag"><!--Humanoid-->
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
-								</node>		
-								<node id="Tag"><!--Goblin-->
-									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>
-							</children>
-						</node>
 					</children>
 				</node>
 
@@ -83,20 +58,6 @@
 					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
-						<node id="Tags">
-							<children>
-
-								<node id="Tag"> <!--Tadpoled-->
-									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
-								</node>		
-								<node id="Tag"><!--Humanoid-->
-									<attribute id="Object" type="guid" value="7fbed0d4-cabc-4a9d-804e-12ca6088a0a8" />
-								</node>		
-								<node id="Tag"><!--Goblin-->
-									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>
-							</children>
-						</node>
 					</children>
 				</node>
 			</children>

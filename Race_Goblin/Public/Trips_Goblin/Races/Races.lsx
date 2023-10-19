@@ -2140,9 +2140,12 @@
                         <node id="MakeupColors">
                             <attribute id="Object" type="guid" value="e2a2383e-4c83-45f4-9fd0-4cb215897c35"/>
                         </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="608597d9-bf00-4ede-aabe-767457280925"/>
-                        </node>
+                        <node id="Tag"> <!--Tadpoled-->
+							<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+						</node>
+                        <node id="Tag"><!--Goblin-->
+							<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+						</node>	
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="50e7beca-4e90-43cd-b7c5-c235e236077f"/>
                         </node>

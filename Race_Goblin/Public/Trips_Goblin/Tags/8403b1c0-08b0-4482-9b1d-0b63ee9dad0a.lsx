@@ -3,9 +3,9 @@
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="|Goblin|" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hc2fe59abg3083g4ce2g969eg234029003ba7" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h9329ff35g9b83g4a73gb103g9e3ae60c5392" version="2" />
+			<attribute id="Description" type="LSString" value="Goblins are small humanoids, often oppressed. Character looks like a Goblin." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h7f4ce4a6g73a9g49bag90edg3752347a1a41" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="Trips_Goblin" />
 			<attribute id="UUID" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />

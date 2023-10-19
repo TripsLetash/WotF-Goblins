@@ -2,7 +2,7 @@
 <contentList>
 	<content contentuid="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1">Goblin</content>	
 	<content contentuid="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1">A subterranean folk, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild’s archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don’t remember the fey realm they inhabited. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.</content>
-
+	<content contentuid="h7f4ce4a6g73a9g49bag90edg3752347a1a41" version="1">You are a little Goblin. Short and stout.</content>
 	<content contentuid="h1783f559g7919g4b20gb209g105ffe123904" version="1">Fey Ancestry</content>
 	<content contentuid="hd8c76b7dg236bg4a55g8616g8f57b8e16e83" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against ending the Charmed effect.</content>
 
@@ -28,4 +28,34 @@
 
 	<content contentuid="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1">Ol' Shiny</content>
 	<content contentuid="h423af4b3gb909g49a0ga6beg17620cf9ed09" version="1">Both shunned and adored by his kind for his magical prowess, this elderly Goblin seeks a new life of adventure and wonder!</content>
+
+	<content contentuid="h286c14beg6a72g46c3gbd83g6804f991bd92" version="1">You 'n I, we're the same, I will bite your ears clean off and shove them. &lt;i&gt;Down. Your. Gob&lt;/i&gt;!</content>
+	<content contentuid="h7a846460g8bfbg47a8gb2e2ged155a755a84" version="1">Take the north path, kin. It winds ya 'round, sure as sunshine, 'til you reach the Towers.</content>
+	<content contentuid="h1d3e939cg4d8eg417dga4b9g692d33005f77" version="4">Remove yourself from my presence, kin, or pay the price.</content>
+	<content contentuid="h86016808g8d91g47a0g874cg5bc447ba9296" version="1">Go on. I ain't gonna hold up a goblin.</content>
+	<content contentuid="h629e49a0g1367g4aa2gb1a9g1fb6edad2c1c" version="1">Well! Look who's gettin' dragged back. And by such familiar company! How badly did you mess up?</content>
+	<content contentuid="h1be183dbg841ag4acag8d2cgdd79b3ccd4ca" version="1">Ragzlin's drow friend won't be happy to hear &lt;i&gt;that&lt;/i&gt;.</content>
+	<content contentuid="hc4fa2e67g1cb9g43dag9eeag8a9a501d473d" version="1">Lil gobshite.</content>
+	<content contentuid="h9a611dceg6c54g4de5g8f3fgab03f5bbc26c" version="1">True Soul kin.</content>
+	<content contentuid="hf586656dge1b1g41dfga8a9g528364fc11d7" version="1">Careful, cousin. That drum's for callin' backup.</content>
+	<content contentuid="hbca49369gebbdg4e18gbe5bg143fada1e307" version="4">A fine entrance, cousin, but we got orders. Lads, intruder!</content>
+	<content contentuid="hda957372g20d0g4dd3ga713g482e16e4dce8" version="1">Ah, kin, you weren't supposed to touch that.</content>
+	<content contentuid="h0f9a4720g4b34g45d0gad63gfb647678243f" version="1">Well played, cousin! Shame you just raised the alarm.</content>
+	<content contentuid="h37933664g14ddg4179g8d2dgf0a8998ca409" version="1">Your, erm, sod off, cousin.</content>
+	<content contentuid="h6b1ec921g6c5eg4ab1g876bg5f5cb4e6a699" version="1">Shove over, Klaw! Goblin comin' through.</content>
+	<content contentuid="h8df396bfg7867g46e1ga459g22a8f5b5170d" version="1">I figgered a goblin would know the broken road!</content>
+	<content contentuid="hcf4bd9c1g0316g4eedg9dfdg65902b9fccba" version="1">Oi, stand back cousin! Where'd you come from?</content>
+	<content contentuid="h52171d70gc7e2g4569g94d5g0309b49b2775" version="3">I'm in a hurry. I have an important message from the boss.</content>
+	<content contentuid="h6740c37dge630g428aga507g71c87437d0c8" version="1">I-I-I didn't realise. Very sorry, True Soul. &lt;i&gt;Very &lt;/i&gt;sorry.</content>
+	<content contentuid="h2bc34aa8gce36g4687g8e8fgdbd6f38db228" version="2">Welcome cousin. Had some intruders a while back - can't be too careful.</content>
+	<content contentuid="hd2ce5625g007fg4845gb566gd72309322aa1" version="1">Then Minthara arrived. And now you - the Absolute's keen on goblins, seems like.</content>
+	<content contentuid="hba665a8eg0e72g4566g95cageb115e4df2c6" version="1">Like Priestess Gut and Boss Ragzlin. Gods, we even got a &lt;i&gt;goblin&lt;/i&gt;. Two, countin' you.</content>
+	<content contentuid="h9584ccf4ge7e3g4f73g848dg7fde8efa961b" version="3">Our kind usually don't deal with Boss Ragzlin and Priestess Gut directly.</content>
+	<content contentuid="h6165dc7cg366dg4ad1gb5f9g85bf98694a07" version="1">Then Minthara arrived. And now you - the Absolute's keen on goblins, seems like.</content>
+	<content contentuid="h541226aagd15fg4ac7gb4ecgad4aba0aab74" version="1">Between all of us, we're swimmin' in goblin. Go ahead, I'm sure the drow's expectin' you.</content>
+	<content contentuid="hb568a31eg610ag47e8g8c8cg2ca80c212e5d" version="1">I gots an audience with Minthara, cousin.</content>
+	<content contentuid="hab33524eg3386g447bg85d0g0c14b42e8f3c" version="2">I gots an audience with the one 'n charge, sister.</content>
+	<content contentuid="h68a79fe9g44ceg4cfcg8862ge39e85f3fa53" version="5">I could tame ya to be a worg, &lt;i&gt;if&lt;/i&gt; I wanted to. I don' really want to.</content>
+	<content contentuid="hb227f9f2g780fg4e75ga631g5ae82c206671" version="4">Didn't expect to see a goblin in here. Did the boss lady send you to rescue me?</content>
+	<content contentuid="h10f8832bg7ce5g43abg8101g21ef2a9fd4e7" version="4">Guessin' you're after Minthara. Could be 'er lackey by the looks of you.</content>
 </contentList>
