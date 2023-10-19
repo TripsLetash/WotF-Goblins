@@ -28,7 +28,7 @@
 								</node>		
 								<node id="Tag"><!--Goblin-->
 									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>								
+								</node>			
 							</children>
 						</node>
 					</children>
@@ -61,7 +61,7 @@
 								</node>		
 								<node id="Tag"><!--Goblin-->
 									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>								
+								</node>
 							</children>
 						</node>
 					</children>
@@ -94,7 +94,7 @@
 								</node>		
 								<node id="Tag"><!--Goblin-->
 									<attribute id="Object" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
-								</node>								
+								</node>
 							</children>
 						</node>
 					</children>

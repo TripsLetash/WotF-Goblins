@@ -11,16 +11,19 @@
 	<content contentuid="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1">Goblin Head 2</content>
 	<content contentuid="h99c7c023g6beag4c13gace4gb57bbf7cd7fb" version="1">Goblin Head 3</content>
 	<content contentuid="hefb17929gb996g42aagbd95g0a7dcf98a3df" version="1">Goblin Head 4</content>
+	<content contentuid="h67495c97ge17cg4baega614g9950b14913eb" version="1">Goblin Head 5</content>
+	<content contentuid="ha3e51e6agd112g499egb657ge674100a17c3" version="1">Goblin Head 6</content>
 
 	<content contentuid="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1">Bone Septum</content>
 
 	<content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Darkvision</content>
 	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>	
-	<content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Fury of the Small Uses</content>
+	<content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Fury of the Small Charge</content>
 	<content contentuid="h157407c7gde6cg4110g9653gcd30e0e9e5f7" version="1">Nimble Escape</content>
 
 	<content contentuid="h5e88dccag4c70g437fg8f2ag38b38b8302dc" version="1">When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.</content>
-	<content contentuid="hb6c131a5g020bg4339g9736ge47a222f7d13" version="1">You can take the Disengage or Hide action as a bonus action on each of your turns.</content>	
+	<content contentuid="hb6c131a5g020bg4339g9736ge47a222f7d13" version="1">You can take the Disengage or Hide action as a bonus action on each of your turns.</content>
+	<content contentuid="hdc27891ega12dg4bceg99dcg3a75fa59d499" version="1">Amount of times you can use Fury of the Small.</content>	
 	<content contentuid="h5b9ac58cg0e4ag4b15g8c35gc2ab75b3026d" version="1">You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</content>
 
 	<content contentuid="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1">Ol' Shiny</content>
