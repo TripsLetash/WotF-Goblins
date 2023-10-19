@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="Goblins are small humanoids, often oppressed. Character looks like a Goblin." />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hf4ea4067g29c9g4833g9246g366ea0b0ac1d" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1" />
+			<attribute id="Description" type="LSString" value="Dankwood Goblins are small humanoids, often oppressed. Character looks like a Dankwood Goblin." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hd8247159g4c24g467cgbe9eg11cf78e29787" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h5f7b411eg2a77g44f4g9c42gca164c6f5659" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Trips_Goblin" />
-			<attribute id="UUID" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+			<attribute id="Name" type="FixedString" value="Trips_Goblin_Dankwood" />
+			<attribute id="UUID" type="guid" value="8e90e1d4-90c5-4a26-8d38-b529422fa1c6" />
 			<children>
 				<node id="Categories">
 					<children>

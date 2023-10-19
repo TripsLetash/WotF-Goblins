@@ -3,17 +3,40 @@
     <version major="4" minor="0" revision="0" build="49"/>
     <region id="Progressions">
         <node id="root">
-            <children>           	
+            <children>
+
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Trips_Goblin_1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_Darkvision;Trips_Gob_Immunities;Trips_Gob_Nimble_Escape;Trips_Gob_Fury_Of_The_Small;Trips_Gob_Fey;GoblinFots"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_Darkvision;Trips_Gob_Immunities;Trips_Gob_Nimble_Escape;Trips_Gob_Fey"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="95653fbb-2fc7-4c6b-8027-25a5d890a376"/>
                     <attribute id="UUID" type="guid" value="fa9d4980-1b18-43e6-974b-4e3a2abae183"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Trips_Goblin_Greenskin_1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_Fury_Of_The_Small;GoblinFots"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="06faa116-05b3-45a0-b61e-25fcaf99cdc2"/>
+                    <attribute id="UUID" type="guid" value="5a317953-08ea-4424-ad93-05a0a66b4748"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Trips_Goblin_Dankwood_1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_TalkWithAnimals"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="46aa63c9-79a5-4f1c-aa2b-74fff0243226"/>
+                    <attribute id="UUID" type="guid" value="453c15bb-0ead-4766-b747-961066c84ee1"/>
                 </node>
             </children>
         </node>

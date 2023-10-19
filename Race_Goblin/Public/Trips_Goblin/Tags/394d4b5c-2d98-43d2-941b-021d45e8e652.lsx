@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="0" build="58" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="Goblins are small humanoids, often oppressed. Character looks like a Goblin." />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="hf4ea4067g29c9g4833g9246g366ea0b0ac1d" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1" />
+			<attribute id="Description" type="LSString" value="Greenskin Goblins are small humanoids, often oppressed. Character looks like a Greenskin Goblin." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h7ed23fb8gfdc3g410fg81e5g8a7b013a4066" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="Trips_Goblin" />
-			<attribute id="UUID" type="guid" value="8403b1c0-08b0-4482-9b1d-0b63ee9dad0a" />
+			<attribute id="Name" type="FixedString" value="Trips_Goblin_Greenskin" />
+			<attribute id="UUID" type="guid" value="394d4b5c-2d98-43d2-941b-021d45e8e652" />
 			<children>
 				<node id="Categories">
 					<children>

@@ -35,7 +35,21 @@
                     <attribute id="U2" type="float" value="0.0625"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
                     <attribute id="V2" type="float" value="0.03125"/> Bottom
-                </node>							
+                </node>	
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_TalkWithAnimals"/> 3
+                    <attribute id="U1" type="float" value="0.0625"/> Left
+                    <attribute id="U2" type="float" value="0.09375"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>			
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Trips_TWA"/> 4
+                    <attribute id="U1" type="float" value="0.09375"/> Left
+                    <attribute id="U2" type="float" value="0.125"/> Right
+                    <attribute id="V1" type="float" value="0.0"/> Top
+                    <attribute id="V2" type="float" value="0.03125"/> Bottom
+                </node>								
             </children>
         </node>
     </region>

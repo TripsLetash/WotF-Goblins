@@ -17,12 +17,13 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="Race" type="guid" value="8ecd3211-69e8-4949-af30-ce6c5f3042e9" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 					</children>
 				</node>
 				<!--Player-->
+				<!--Greenskins-->
 				<!--Goblin Male-->
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b0b28a0-a0ed-493a-90df-e8e0bf140f80" />
@@ -36,9 +37,12 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="Race" type="guid" value="8ecd3211-69e8-4949-af30-ce6c5f3042e9" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
+						<node id="Tags">
+                            <attribute id="Object" type="guid" value="394d4b5c-2d98-43d2-941b-021d45e8e652"/>
+                        </node>
 					</children>
 				</node>
 
@@ -55,9 +59,56 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />	
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Race" type="guid" value="37f461c1-2f3b-4231-b454-93a9788e8404" />
+					<attribute id="Race" type="guid" value="8ecd3211-69e8-4949-af30-ce6c5f3042e9" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
+						<node id="Tags">
+                            <attribute id="Object" type="guid" value="394d4b5c-2d98-43d2-941b-021d45e8e652"/>
+                        </node>
+					</children>
+				</node>
+
+				<!--Dankwood-->
+				<!--Goblin Male-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b0b28a0-a0ed-493a-90df-e8e0bf140f80" />
+					<attribute id="Icon" type="FixedString" value="e2af3f8b-da6a-7da0-2c37-70117fc95a52-EQP_Goblin_Mace_Shield_Absolute_(Icon_Goblin_Male)" />
+					<attribute id="MapKey" type="FixedString" value="5edab83f-2493-42d3-b46e-311e9feb1fac" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Male_Greenskins" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="b18d6de5-7861-42fe-a464-8be9a67cfd16" />	
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Race" type="guid" value="dbdfcf58-7b4a-406d-8162-ca4b87bc1f56" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+					    <node id="Tags">
+                            <attribute id="Object" type="guid" value="8e90e1d4-90c5-4a26-8d38-b529422fa1c6"/>
+                        </node>
+					</children>
+				</node>
+				<!--Goblin Female-->
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="da784343-2e1a-40c6-860e-476cbe109074" />
+					<attribute id="Icon" type="FixedString" value="489f1d37-b11b-1894-247a-9e8a1feb3454-EQP_Goblin_Scimitar_(Icon_Goblin_Female)" />
+					<attribute id="MapKey" type="FixedString" value="cf18c0a9-72c0-4806-919f-9e542b34dfcb" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Female_Greenskins" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinFemale" />				
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="0c44cf75-a73c-4165-b57e-8a4af925214e" />	
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Race" type="guid" value="dbdfcf58-7b4a-406d-8162-ca4b87bc1f56" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+					    <node id="Tags">
+                            <attribute id="Object" type="guid" value="8e90e1d4-90c5-4a26-8d38-b529422fa1c6"/>
+                        </node>
 					</children>
 				</node>
 			</children>

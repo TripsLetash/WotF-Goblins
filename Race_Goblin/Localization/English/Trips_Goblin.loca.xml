@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h30ccdcd6g3368g490cg8a2bg7de150bf8c56" version="1">Goblin</content>	
-	<content contentuid="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1">A subterranean folk, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild’s archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don’t remember the fey realm they inhabited. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.</content>
+	<content contentuid="hf4ea4067g29c9g4833g9246g366ea0b0ac1d" version="1">Goblins occupy an uneasy place in a dangerous world, and they react by lashing out at any creatures they believe they can bully. Cunning in battle and cruel in victory, goblins are fawning and servile in defeat.</content>
 	<content contentuid="h7f4ce4a6g73a9g49bag90edg3752347a1a41" version="1">You are a little Goblin. Short and stout.</content>
 	<content contentuid="h1783f559g7919g4b20gb209g105ffe123904" version="1">Fey Ancestry</content>
 	<content contentuid="hd8c76b7dg236bg4a55g8616g8f57b8e16e83" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against ending the Charmed effect.</content>
@@ -17,7 +17,9 @@
 	<content contentuid="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1">Bone Septum</content>
 
 	<content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Darkvision</content>
-	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>	
+	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>
+	<content contentuid="h770409c2gc38ag4cc7gaa2ega21ea3d88eb8" version="1">Speak with Beasts</content>
+	<content contentuid="h9a100708g2fe2g4ef1ga11dg8530f3cb6a75" version="1">Through sounds and gestures you can communicate simple ideas with beasts. Dankwood goblins love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</content>	
 	<content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Fury of the Small Charge</content>
 	<content contentuid="h157407c7gde6cg4110g9653gcd30e0e9e5f7" version="1">Nimble Escape</content>
 
@@ -58,4 +60,10 @@
 	<content contentuid="h68a79fe9g44ceg4cfcg8862ge39e85f3fa53" version="5">I could tame ya to be a worg, &lt;i&gt;if&lt;/i&gt; I wanted to. I don' really want to.</content>
 	<content contentuid="hb227f9f2g780fg4e75ga631g5ae82c206671" version="4">Didn't expect to see a goblin in here. Did the boss lady send you to rescue me?</content>
 	<content contentuid="h10f8832bg7ce5g43abg8101g21ef2a9fd4e7" version="4">Guessin' you're after Minthara. Could be 'er lackey by the looks of you.</content>
+
+	<content contentuid="h7ed23fb8gfdc3g410fg81e5g8a7b013a4066" version="1">Greenskin Goblin</content>
+	<content contentuid="h443d9124ge615g4d03g9409g07106f7ee5d8" version="1">A subterranean folk, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild’s archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don’t remember the fey realm they inhabited. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.</content>	
+
+	<content contentuid="h5f7b411eg2a77g44f4g9c42gca164c6f5659" version="1">Dankwood Goblin</content>	
+	<content contentuid="hd8247159g4c24g467cgbe9eg11cf78e29787" version="1">Dankwood goblins are much like any other run-of-the-mill goblin but they are much more gentle and artistic than the savage and uncouth goblins of the world. They are inquisitive and have a magical bond with the small forest creatures with which they are often friends. They are fast and numble and love to explore. Because of this they make great adventurers and guides.</content>	
 </contentList>
