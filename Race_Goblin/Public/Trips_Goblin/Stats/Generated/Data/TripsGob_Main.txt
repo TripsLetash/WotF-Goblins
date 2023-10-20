@@ -26,9 +26,6 @@ data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharact
 
 new entry "GoblinFots"
 type "PassiveData"
-data "DisplayName" "h5e88dccag4c70g437fg8f2ag38b38b8302dc"
-data "Description" "h5e88dccag4c70g437fg8f2ag38b38b8302dc"
-data "ExtraDescription" ""
 data "Boosts" "IF(ConditionResult(context.Source.ProficiencyBonus == 2)):ActionResource(GoblinFots,2,0);IF(ConditionResult(context.Source.ProficiencyBonus == 3)):ActionResource(GoblinFots,3,0);IF(ConditionResult(context.Source.ProficiencyBonus == 4)):ActionResource(GoblinFots,4,0);IF(ConditionResult(context.Source.ProficiencyBonus == 5)):ActionResource(GoblinFots,5,0)"
 data "Properties" "IsHidden"
 
@@ -57,11 +54,13 @@ data "Conditions" ""
 data "StatsFunctors" ""
 data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
 
+new entry "GoblinDankwoodSquirrel"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Trips_Gob_FindFamiliar_Squirrel)"
+data "Properties" "Highlighted"
+
 new entry "GoblinDankwoodTrait"
 type "PassiveData"
-data "DisplayName" "h5e88dccag4c70g437fg8f2ag38b38b8302dc"
-data "Description" "h5e88dccag4c70g437fg8f2ag38b38b8302dc"
-data "ExtraDescription" ""
 data "Boosts" "ActionResource(GoblinFots,1,0)"
 data "Properties" "IsHidden"
 

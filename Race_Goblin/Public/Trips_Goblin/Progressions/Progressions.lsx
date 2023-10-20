@@ -28,10 +28,10 @@
                     <attribute id="UUID" type="guid" value="5a317953-08ea-4424-ad93-05a0a66b4748"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="UnlockSpell(Trips_Gob_FindFamiliar_Squirrel)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Trips_Goblin_Dankwood_1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_TalkWithAnimals;GoblinDankwoodTrait"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Trips_Gob_TalkWithAnimals;GoblinDankwoodTrait;GoblinDankwoodSquirrel"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="2"/>
                     <attribute id="Selectors" type="LSString" value=""/>

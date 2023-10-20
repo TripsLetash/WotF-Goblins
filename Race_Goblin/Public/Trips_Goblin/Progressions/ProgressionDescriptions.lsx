@@ -10,8 +10,6 @@
                     <attribute id="ExactMatch" type="FixedString" value="ActionResource(GoblinFots,1,0)"/>
                     <attribute id="UUID" type="guid" value="b8eb0faf-2302-402c-8fb3-e18b5804b51e"/>
                 </node>
-
-
             </children>
         </node>
     </region>
