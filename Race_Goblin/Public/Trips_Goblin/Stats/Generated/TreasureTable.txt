@@ -1,0 +1,59 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 14
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Streets_ProtectionCharms_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "LOW_JewelTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_FoodSquirrel",3,0,0,0,0,0,0,0

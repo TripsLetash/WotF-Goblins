@@ -3,3 +3,9 @@ local __util = require 'larian.util'
 function PlayableRace(entity)
     return Tagged('HUMAN',entity) | Tagged('ELF',entity) | Tagged('DROWELF',entity) | Tagged('DWARF',entity) | Tagged('HALFELF',entity) | Tagged('GNOME',entity) | Tagged('HALFLING',entity) | Tagged('TIEFLING',entity) | Tagged('GITHYANKI',entity) | Tagged('Trips_Goblin',entity) | Tagged('DRAGONBORN',entity) | Tagged('HALFORC',entity)
 end
+
+function IsBestFriendSquirrel(entity)
+    entity = entity or context.Source
+    result = Tagged('Trips_Squirrel',entity)
+    return ConditionResult(result.Result,{ConditionError("IsBestFriendSquirrel")})
+end

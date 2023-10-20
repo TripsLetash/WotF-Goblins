@@ -8,7 +8,11 @@
 
 	<content contentuid="h7b73d027g0875g4841g835dg539a9fd555c1" version="1">Adorable Squirrel</content>
 	<content contentuid="h31969a47g62f4g4ea6gb173g8adb04eac258" version="1">Adorable little critter.</content>
-
+	<content contentuid="h12abad0dg1cf3g4c89g9f81g9f18ce3d0ad4" version="1">A Baby Squirrel</content>
+	<content contentuid="h873843f1gc110g4691g9ed4gee1ddaa4ae61" version="1">A Friendly Squirrel</content>
+	<content contentuid="h727a1de1g30f5g4fc3g9a04g86e4cf8ed5b5" version="1">A Friend</content>
+	<content contentuid="h6cec329dg1140g49dagaa4bg8e84344242e2" version="1">A Good Friend</content>
+	<content contentuid="h72917b9cgc738g4fa8g8b58g4b9c6a4a9d60" version="1">My Bestest Friend</content>
 
 	<content contentuid="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1">Goblin Head 1</content>
 	<content contentuid="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1">Goblin Head 2</content>
@@ -17,9 +21,21 @@
 	<content contentuid="h67495c97ge17cg4baega614g9950b14913eb" version="1">Goblin Head 5</content>
 	<content contentuid="ha3e51e6agd112g499egb657ge674100a17c3" version="1">Goblin Head 6</content>
 
+	<content contentuid="h5076c659g3122g4944g8121gc57680041411" version="1">A Large Acorn</content>
+	<content contentuid="h517cd086g9801g4695g870fgf6e19ce3d49b" version="1">Feed Your Bestie</content>
+	<content contentuid="hce8acb95g5b70g4c23ga7e0g3fa4bf85d9a9" version="1">Your bestie absolutely loves these, what a treat.</content>
+
+	<content contentuid="hb7d4185bg0229g4bdbgb690g9d8b73edc60b" version="2">Go nuts</content>
+	<content contentuid="h4a975442geef3g4c5aga639ge7f8cc694f90" version="4">Give in to the squirrel's base instincts to increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by [1] and possibly make nearby creatures &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
+	<content contentuid="h5c7a2e51g3e71g4a14gad8bg6dece2464ac8" version="2">Go Nuts</content>
+	<content contentuid="h6f13a4ffg7667g41cdga7edga91bcdeae784" version="2">The squirrel is enraged! &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increased by [1].</content>
+	<content contentuid="hedc70702ge25bg48cbgbda2g7bea6da0e31f" version="1">Leap at a target to bite it and knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>	
+	<content contentuid="hac9d9676g2480g404dg8663g3035f3449b59" version="1">Mighty Flight</content>
+
+
 	<content contentuid="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1">Bone Septum</content>
 
-	<content contentuid="he2b12745gef60g4f53gb6cegb64264ea6f99" version="1">My Bestest Friend</content>
+
 	<content contentuid="hfbc4eec5ge8eeg4a56gb73dg9e476a7a330f" version="1">Find Best Friend</content>
 	<content contentuid="h2c42450agb906g4078ga98ag43cb8c6e9d60" version="1">Call upon your best friend, she'll come running! You can use this trait once per day, regaining one use when you finish a long rest.</content>
 

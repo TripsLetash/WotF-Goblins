@@ -2921,6 +2921,20 @@
                         </node>
                     </children>
                 </node>
+                <!--Adorable Squirrel Race-->
+                <node id="Race">
+                    <attribute id="Description" type="TranslatedString" handle="h31969a47g62f4g4ea6gb173g8adb04eac258" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7b73d027g0875g4841g835dg539a9fd555c1" version="1"/>
+                    <attribute id="DisplayTypeUUID" type="guid" value="7f8790f2-12be-49db-a6e3-ffac5d4b220e"/>
+                    <attribute id="Name" type="FixedString" value="Adorable Squirrel"/>
+                    <attribute id="ParentGuid" type="guid" value="7f8790f2-12be-49db-a6e3-ffac5d4b220e"/>
+                    <attribute id="UUID" type="guid" value="b10444ef-f2d2-4587-b3ea-9682444de74a"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="0a5b40b3-cdef-4307-965b-2d2de4bddc35"/>
+                        </node>
+                    </children>
+                </node>
              </children>
         </node>
     </region>
