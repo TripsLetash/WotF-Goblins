@@ -16,6 +16,16 @@
 								</node>
 							</children>
 						</node>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Assets/Portraits/f9159c2f-05d8-42b7-b077-199f14c30654-_(Best_Friend).png" />
+							<children>
+								<node id="entries">
+									<attribute id="h" type="int16" value="152" />
+									<attribute id="mipcount" type="int8" value="8" />
+									<attribute id="w" type="int16" value="152" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 			</children>

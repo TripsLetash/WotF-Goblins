@@ -29,7 +29,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b0b28a0-a0ed-493a-90df-e8e0bf140f80" />
 					<attribute id="Icon" type="FixedString" value="e2af3f8b-da6a-7da0-2c37-70117fc95a52-EQP_Goblin_Mace_Shield_Absolute_(Icon_Goblin_Male)" />
 					<attribute id="MapKey" type="FixedString" value="fe265954-3a3f-4ef8-ac83-6968dd48dc09" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_Male" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Male_Greenskin" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
@@ -51,7 +51,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="da784343-2e1a-40c6-860e-476cbe109074" />
 					<attribute id="Icon" type="FixedString" value="489f1d37-b11b-1894-247a-9e8a1feb3454-EQP_Goblin_Scimitar_(Icon_Goblin_Female)" />
 					<attribute id="MapKey" type="FixedString" value="5981632e-1499-4548-b0c3-b1d094201dba" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_Female" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Female_Greenskin" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinFemale" />				
@@ -71,10 +71,10 @@
 				<!--Dankwood-->
 				<!--Goblin Male-->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b0b28a0-a0ed-493a-90df-e8e0bf140f80" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e07567b3-c39c-4ebc-b812-d6110fb6502c" />
 					<attribute id="Icon" type="FixedString" value="e2af3f8b-da6a-7da0-2c37-70117fc95a52-EQP_Goblin_Mace_Shield_Absolute_(Icon_Goblin_Male)" />
 					<attribute id="MapKey" type="FixedString" value="5edab83f-2493-42d3-b46e-311e9feb1fac" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_Male_Greenskins" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Male_Dankwood" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				
@@ -92,10 +92,10 @@
 				</node>
 				<!--Goblin Female-->
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="da784343-2e1a-40c6-860e-476cbe109074" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="37724a41-27e4-43b0-82db-95b9a37cc6fd" />
 					<attribute id="Icon" type="FixedString" value="489f1d37-b11b-1894-247a-9e8a1feb3454-EQP_Goblin_Scimitar_(Icon_Goblin_Female)" />
 					<attribute id="MapKey" type="FixedString" value="cf18c0a9-72c0-4806-919f-9e542b34dfcb" />
-					<attribute id="Name" type="LSString" value="Trips_Goblin_Female_Greenskins" />
+					<attribute id="Name" type="LSString" value="Trips_Goblin_Female_Dankwood" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinFemale" />				
@@ -111,6 +111,159 @@
                         </node>
 					</children>
 				</node>
+
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="2341a815-322a-4000-a96c-3cc7b86b075f" />
+					<attribute id="Name" type="LSString" value="Squirrel_Summon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="071800ad-d4d9-4a63-82a7-4e786ab19449" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he2b12745gef60g4f53gb6cegb64264ea6f99" version="1" />
+					<attribute id="Stats" type="FixedString" value="Trips_Squirrel" />
+					<attribute id="CanOpenDoors" type="bool" value="True" />					
+					<attribute id="CanClimbLadders" type="bool" value="True" />
+					<attribute id="VocalAttackResourceID" type="FixedString" value="19556b1e-9dae-749b-6b4f-a9ddc118c787" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="4887df35-69b8-e7fb-0bf5-1b81d059ccc4" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="8e53caab-a40f-e0dd-094e-3b5bc7ef2af5" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="c0e15f82-e7f3-0095-1593-27d59b63d17d" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="fdcb3eea-056d-2eab-0648-11b02933ef9d" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="75b701cc-260c-9d0e-d131-05f5647e53a8" />
+					<attribute id="VocalIdle2ResourceID" type="FixedString" value="7ceb0065-5f40-6528-a613-8f31f19375fc" />
+					<attribute id="VocalIdle3ResourceID" type="FixedString" value="5a5ac84d-3044-b683-0280-cca7767d38cb" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="7e7f70ba-dcbe-1a46-a852-8f3d143cb595" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="dadb54f0-163f-32e0-8b1c-63d55a50ee03" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="aac911be-11be-2895-583c-ab246d620ee7" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="2c8bcb40-a4c3-42d7-11ea-306430928ca6" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="1c41871e-f2e9-4c42-b48d-bc0c89d0024c" />
+					<attribute id="IsLootable" type="bool" value="False" />
+					<attribute id="IsEquipmentLootable" type="bool" value="False" />
+					<attribute id="DisableEquipping" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="f9159c2f-05d8-42b7-b077-199f14c30654-_(Best_Friend)" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Squirrel" />
+					<attribute id="Faction" type="guid" value="a66b2d45-1b6c-082d-8a01-c6d975ead314" />
+					<attribute id="Race" type="guid" value="7f8790f2-12be-49db-a6e3-ffac5d4b220e" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="26c78224-a4c1-43e4-b943-75e7fa1bfa41" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8713fda9-1855-42ef-8c54-a1e2d5a49194" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0a5b40b3-cdef-4307-965b-2d2de4bddc35" />
+								</node>
+							</children>
+						</node>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDeathActions" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Target_Claws_Imp_Summon" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Projectile_Jump" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="Skill" type="FixedString" value="Shout_Disengage" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="CasualExplorer" type="bool" value="True" />
+									<attribute id="Classic" type="bool" value="True" />
+									<attribute id="TacticianHardcore" type="bool" value="True" />
+									<attribute id="HonorHardcore" type="bool" value="True" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+
+
+			
 			</children>
 		</node>
 	</region>

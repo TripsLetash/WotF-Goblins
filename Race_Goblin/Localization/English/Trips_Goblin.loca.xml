@@ -6,6 +6,9 @@
 	<content contentuid="h1783f559g7919g4b20gb209g105ffe123904" version="1">Fey Ancestry</content>
 	<content contentuid="hd8c76b7dg236bg4a55g8616g8f57b8e16e83" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed, and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against ending the Charmed effect.</content>
 
+	<content contentuid="h7b73d027g0875g4841g835dg539a9fd555c1" version="1">Adorable Squirrel</content>
+	<content contentuid="h31969a47g62f4g4ea6gb173g8adb04eac258" version="1">Adorable little critter.</content>
+
 
 	<content contentuid="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1">Goblin Head 1</content>
 	<content contentuid="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1">Goblin Head 2</content>
@@ -16,16 +19,20 @@
 
 	<content contentuid="h39c37275g66a0g4dfaga46dge677b0041e4a" version="1">Bone Septum</content>
 
+	<content contentuid="he2b12745gef60g4f53gb6cegb64264ea6f99" version="1">My Bestest Friend</content>
+	<content contentuid="hfbc4eec5ge8eeg4a56gb73dg9e476a7a330f" version="1">Find Best Friend</content>
+	<content contentuid="h2c42450agb906g4078ga98ag43cb8c6e9d60" version="1">Call upon your best friend, she'll come running! You can use this trait once per day, regaining one use when you finish a long rest.</content>
+
 	<content contentuid="h12423e5eg4b8dg47b5g90c4g0a2cbb1c6759" version="1">Darkvision</content>
 	<content contentuid="h2983a23dg5341g4444g81a4g76cbc861bf05" version="1">Fury of the Small</content>
 	<content contentuid="h770409c2gc38ag4cc7gaa2ega21ea3d88eb8" version="1">Speak with Beasts</content>
 	<content contentuid="h9a100708g2fe2g4ef1ga11dg8530f3cb6a75" version="1">Through sounds and gestures you can communicate simple ideas with beasts. Dankwood goblins love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</content>	
-	<content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Fury of the Small Charge</content>
+	<content contentuid="h7b2351e1g6ac6g4c05gb703g00aff9682581" version="1">Goblin Trait Charge</content>
 	<content contentuid="h157407c7gde6cg4110g9653gcd30e0e9e5f7" version="1">Nimble Escape</content>
 
 	<content contentuid="h5e88dccag4c70g437fg8f2ag38b38b8302dc" version="1">When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.</content>
 	<content contentuid="hb6c131a5g020bg4339g9736ge47a222f7d13" version="1">You can take the Disengage or Hide action as a bonus action on each of your turns.</content>
-	<content contentuid="hdc27891ega12dg4bceg99dcg3a75fa59d499" version="1">Amount of times you can use Fury of the Small.</content>	
+	<content contentuid="hdc27891ega12dg4bceg99dcg3a75fa59d499" version="1">Amount of times you can use your goblin racial ability.</content>	
 	<content contentuid="h5b9ac58cg0e4ag4b15g8c35gc2ab75b3026d" version="1">You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</content>
 
 	<content contentuid="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1">Ol' Shiny</content>
