@@ -946,8 +946,7 @@
 								</node>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="8713fda9-1855-42ef-8c54-a1e2d5a49194" />
-								</node>
-								
+								</node>								
 							</children>
 						</node>
 					</children>
@@ -958,6 +957,9 @@
 					<attribute id="MapKey" type="FixedString" value="2318490d-37b6-4260-915f-9207ba72788e" />
 					<attribute id="Name" type="LSString" value="Trips_SquirrelFood" />
 					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="OnUseDescription" type="TranslatedString" handle="h905aa51dga99bg4d24gb5c5g64a35a47db4f" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="he4efd787ge325g40c3gb366g6dc6b75cde91" version="1" />					
+					<attribute id="Description" type="TranslatedString" handle="hce8acb95g5b70g4c23ga7e0g3fa4bf85d9a9" version="1" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="1445eabc-b130-4389-a5e4-603b5cb35f46" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5076c659g3122g4944g8121gc57680041411" version="1" />

@@ -42,6 +42,7 @@ data "Conditions" "SizeEqualOrGreater(Size.Medium, context.Target) and HasAction
 data "StatsFunctors" "UseActionResource(SELF,GoblinFots,1);DealDamage(ProficiencyBonus, Slashing)"
 data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;OncePerTurn;Highlighted"
 
+
 new entry "Trips_Gob_TalkWithAnimals"
 type "PassiveData"
 data "Icon" "Trips_TalkWithAnimals"
@@ -56,6 +57,9 @@ data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highligh
 
 new entry "GoblinDankwoodSquirrel"
 type "PassiveData"
+data "Icon" "Trips_BabyIcon"
+data "DisplayName" "hfbc4eec5ge8eeg4a56gb73dg9e476a7a330f;1"
+data "Description" "h2c42450agb906g4078ga98ag43cb8c6e9d60;1"
 data "Boosts" "UnlockSpell(Trips_Gob_FindFamiliar_Squirrel)"
 data "Properties" "Highlighted"
 
@@ -72,7 +76,7 @@ data "TargetRadius" "18"
 data "SpellSchool" ""
 data "ContainerSpells" ""
 data "Cooldown" "OncePerRest"
-data "SpellProperties" "GROUND:IF(CharacterLevelGreaterThan(11)):Summon(36df4638-7b58-4b89-b5f9-8b50d8cab962, UntilLongRest,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(7) and not CharacterLevelGreaterThan(11)):Summon(e4590be5-b561-4bb8-876e-d89047014305, UntilLongRest,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(7)):Summon(95732ae3-a344-45f1-bee9-315bc7c338c2, UntilLongRest,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(2) and not CharacterLevelGreaterThan(4)):Summon(8e61e041-74b5-4232-9479-0d60fc509bf0, UntilLongRest,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(0) and not CharacterLevelGreaterThan(2)):Summon(2341a815-322a-4000-a96c-3cc7b86b075f, UntilLongRest,,,'FindFamiliarStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+data "SpellProperties" "GROUND:IF(CharacterLevelGreaterThan(11)):Summon(36df4638-7b58-4b89-b5f9-8b50d8cab962, UntilLongRest,,,'BestFriendStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(7) and not CharacterLevelGreaterThan(11)):Summon(e4590be5-b561-4bb8-876e-d89047014305, UntilLongRest,,,'BestFriendStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(7)):Summon(95732ae3-a344-45f1-bee9-315bc7c338c2, UntilLongRest,,,'BestFriendStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(2) and not CharacterLevelGreaterThan(4)):Summon(8e61e041-74b5-4232-9479-0d60fc509bf0, UntilLongRest,,,'BestFriendStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(CharacterLevelGreaterThan(0) and not CharacterLevelGreaterThan(2)):Summon(2341a815-322a-4000-a96c-3cc7b86b075f, UntilLongRest,,,'BestFriendStack',UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
 data "TargetConditions" "HasActionResource('GoblinFots', 1, 0, false, false, context.Source) and CanStand('308da8fd-fb8e-4078-8991-a8ee678b49da') and not Character() and not Self()"
 data "Icon" "Trips_BestFriend"
 data "DisplayName" "hfbc4eec5ge8eeg4a56gb73dg9e476a7a330f;1"
@@ -89,8 +93,6 @@ data "SpellAnimation" "6f42f5f3-7a5a-4441-a02e-71b0450ac4b7,,;,,;605d49b4-03b9-4
 data "SpellStyleGroup" "Class"
 data "SpellFlags" "HasSomaticComponent;HasVerbalComponent;HasHighGroundRangeExtension;CannotTargetCharacter;CannotTargetItems"
 data "MemoryCost" ""
-data "PrepareEffect" "239d0263-eb26-4d7e-9683-4d7be6b6a1cf"
-data "CastEffect" "111a8b8c-b395-46d0-b2f0-a10ac6f9731f"
 data "DamageType" "Psychic"
 
 new entry "Target_Claws_Squirrel_Summon"
@@ -184,6 +186,21 @@ data "DisplayName" "h2983a23dg5341g4444g81a4g76cbc861bf05"
 data "Description" "h5e88dccag4c70g437fg8f2ag38b38b8302dc"
 data "StatusType" "BOOST"
 data "Passives" "Gob_Fots_Remove"
+
+new entry "IsBaby"
+type "PassiveData"
+data "DisplayName" "h12abad0dg1cf3g4c89g9f81g9f18ce3d0ad4;1"
+data "Description" "h12dfe942gdf87g4710g99d9g7a082770b37d;1"
+data "Icon" "Trips_BabyIcon"
+data "Properties" "Highlighted"
+data "Boosts" "ApplyStatus(TRIPS_GOB_ISBABY,100,-1)"
+
+new entry "TRIPS_GOB_ISBABY"
+type "StatusData"
+data "Icon" "Trips_BabyIcon"
+data "DisplayName" "h12abad0dg1cf3g4c89g9f81g9f18ce3d0ad4"
+data "Description" "h12dfe942gdf87g4710g99d9g7a082770b37d"
+data "StatusType" "BOOST"
 
 new entry "Gob_Fots_Remove"
 type "PassiveData"
