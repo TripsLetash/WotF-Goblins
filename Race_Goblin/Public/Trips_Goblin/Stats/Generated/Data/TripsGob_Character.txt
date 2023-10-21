@@ -19,7 +19,7 @@ data "Sight" "1850"
 data "Hearing" "1800"
 data "Flags" "ObscurityWithoutSneaking"
 data "SpellCastingAbility" "Intelligence"
-data "ActionResources" "Movement:9"
+data "ActionResources" "Movement:9;BonusActionPoint:1"
 data "Passives" ""
 data "DifficultyStatuses" "STATUS_EASY:PLAYER_BONUSES_EASYMODE"
 
@@ -61,7 +61,7 @@ data "DefaultBoosts" "ScaleMultiplier(0.6);JumpMaxDistanceMultiplier(3);IgnoreFa
 
 new entry "Trips_Squirrel_5"
 type "Character"
-using "Trips_Squirrel"
+using "Trips_Squirrel_3"
 data "Level" "5"
 data "Constitution" "15"
 data "Vitality" "31"
