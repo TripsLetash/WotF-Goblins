@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="8" build="2" />
+	<region id="SoundBank">
+		<node id="SoundBank">
+			<children>
+			</children>
+		</node>
+	</region>
+	
 	<region id="TextureBank">
 		<node id="TextureBank">
 			<children>
@@ -17,8 +24,7 @@
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="4096" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855920" />
-				</node>
-
+				</node>			
 
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
