@@ -10,6 +10,7 @@
 					<attribute id="Icon" type="FixedString" value="991887aa-4771-44f8-87e7-1074ad5fafd2-_(Icon_Ol_Shiny)" />
 					<attribute id="MapKey" type="FixedString" value="1215e534-4fe5-4ea1-a449-8f2307e1939c" />
 					<attribute id="Name" type="LSString" value="Trips_Goblin_OlShiny" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hcef6c274g515eg4d12gab31ge2c834b39a17" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Stats" type="FixedString" value="Trips_HeroGoblinMale" />				

@@ -45,6 +45,7 @@
                     <!--A A-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_57022288-05a7-4349-ac7b-16fafc22a973"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -55,6 +56,7 @@
                 </node><!--B A-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_6481e758-4ba7-49b4-b6f5-a002bfd24deb"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -65,6 +67,7 @@
                 </node><!--C A-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="h99c7c023g6beag4c13gace4gb57bbf7cd7fb" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_9c10b852-74dd-4619-8b85-8876f71dc86a"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -75,6 +78,7 @@
                 </node><!--A B-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="hefb17929gb996g42aagbd95g0a7dcf98a3df" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_bebcfe40-e277-4d7d-a637-8fcb292a8711"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -85,6 +89,7 @@
                 </node><!--B B-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="h67495c97ge17cg4baega614g9950b14913eb" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_7534ff6d-d4a2-482b-a9eb-4bcddf295abd"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -95,6 +100,7 @@
                 </node><!--C B-->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="DisplayName" type="TranslatedString" handle="ha3e51e6agd112g499egb657ge674100a17c3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_77b044de-7c5d-420d-a71a-ecca836db581"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -107,6 +113,7 @@
                 <!--Masc-->
                 <node id="CharacterCreationAppearanceVisual"> head 1
                     <attribute id="DisplayName" type="TranslatedString" handle="h594bc2a1g12dag4a4fg8858g3796592f3655" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_6aea7fd3-dc43-4345-8213-dfae51c70bf3"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -117,6 +124,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 1
                     <attribute id="DisplayName" type="TranslatedString" handle="h12af9405gec9bg48ffg953cgf2b490f83e7c" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_949ebb99-3e7f-4a85-8295-09a425a50ec3"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -127,6 +135,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 1
                     <attribute id="DisplayName" type="TranslatedString" handle="h99c7c023g6beag4c13gace4gb57bbf7cd7fb" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_15f458e6-939d-4666-8917-8299b7aa19fe"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
@@ -137,6 +146,7 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual"> head 1
                     <attribute id="DisplayName" type="TranslatedString" handle="hefb17929gb996g42aagbd95g0a7dcf98a3df" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="0_Head_075c729d-edb4-49c1-89d0-7c08e6bae9a8"/>
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DefaultSkinColor" type="guid" value="1ce17386-ba59-eb8c-7366-c96c935d684b"/>
