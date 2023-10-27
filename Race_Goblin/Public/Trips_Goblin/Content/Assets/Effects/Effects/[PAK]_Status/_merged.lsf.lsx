@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>			
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="20 20 20" />
+					<attribute id="BoundsMin" type="fvec3" value="-20 -20 -20" />
+					<attribute id="Center" type="fvec3" value="0 0 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="5" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Trips_Summon" />
+					<attribute id="ID" type="FixedString" value="d042076b-dda2-4b5f-ae67-981b755040b2" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Trips_Summon" />
+					<attribute id="Radius" type="float" value="34.64102" />
+					<attribute id="SourceFile" type="LSString" value="Public/Trips_Goblin/Assets/Effects/Effects_Banks/VFX_Trips_Summon.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="89366a41-1992-0541-c2f2-d523b9e69742" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1745046d-dd1f-f1be-cdd4-274a162be2af" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="872cc3f1-c343-be87-9b60-64f211041e80" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="19c24792-a865-5490-9e83-c7e90e3d04fb" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="75565488-051e-6b9f-0be7-6263ca79de8f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f812d39c-7d2b-e112-931a-9265f910dbc0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="bdbc5ca7-aa8f-62f3-9f17-169ecdb0b7ae" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c122cb9b-a0b7-e012-76e4-6f3d53fe680c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="72c9ec7b-6fe6-8fec-5dfa-701981efd30b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="d02f30fb-e343-446c-ef67-892476186bf0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f4e19a97-85b5-2ad4-8451-fe88e4ea9c47" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3264d6fc-e98a-89b3-ad12-48953c7d413b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9ffe155f-9fff-7d77-e114-27fed8a7aee7" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="787ec42c-eaf4-12d7-b2c0-235852e083ee" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a326fc9b-1eda-8212-fed2-5c270a43a088" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>			
+	</region>
+</save>
