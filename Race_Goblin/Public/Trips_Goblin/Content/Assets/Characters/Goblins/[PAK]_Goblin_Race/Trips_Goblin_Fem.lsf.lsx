@@ -4775,7 +4775,7 @@
 					<attribute id="ID" type="FixedString" value="0cebe6ae-7977-478b-b0dd-d80533ab1378" />
 					<attribute id="Name" type="LSString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/HeadsFem/A/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Heads/Fem/A/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -4863,7 +4863,7 @@
 					<attribute id="ID" type="FixedString" value="95585d13-6829-423f-b3cb-f6672a84b98e" />
 					<attribute id="Name" type="LSString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/HeadsFem/B/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Heads/Fem/B/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -4951,7 +4951,7 @@
 					<attribute id="ID" type="FixedString" value="6babe12a-3822-4097-baec-8dacacffd384" />
 					<attribute id="Name" type="LSString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/HeadsFem/C/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Heads/Fem/C/Trips_GOB_F_NKD_Head_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_GOB_F_NKD_Head_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />

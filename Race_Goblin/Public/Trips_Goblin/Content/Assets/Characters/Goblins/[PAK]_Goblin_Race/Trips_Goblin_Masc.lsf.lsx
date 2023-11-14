@@ -3308,7 +3308,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="Trips_GOB_M_NKD_Head_B_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Heads/Masc/Masc/A/Trips_GOB_M_NKD_Head_B_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Heads/Masc/A/Trips_GOB_M_NKD_Head_B_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Trips_GOB_M_NKD_Head_B_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
