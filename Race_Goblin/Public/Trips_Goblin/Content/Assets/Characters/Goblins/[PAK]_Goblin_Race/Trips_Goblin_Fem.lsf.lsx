@@ -4710,6 +4710,32 @@
 					<attribute id="Type" type="int32" value="1" />
 					<attribute id="Width" type="int32" value="2048" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="f8f239aa-d1d7-4995-b167-a4eb68569be5" />
+					<attribute id="Name" type="LSString" value="Trips_Gob_F_NKD_Body_A_CLEA" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Body/Trips_Gob_F_NKD_Body_A_CLEA.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Trips_Gob_F_NKD_Body_A_CLEA" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+				</node>
+				<node id="Resource">
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Height" type="int32" value="2048" />
+					<attribute id="ID" type="FixedString" value="a2cedba5-2f40-4e59-8dea-f17fbb2f1355" />
+					<attribute id="Name" type="LSString" value="Trips_Gob_F_NKD_Body_A_HMVY" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Trips_Goblin/[PAK]_Goblin/Body/Trips_Gob_F_NKD_Body_A_HMVY.DDS" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="Trips_Gob_F_NKD_Body_A_HMVY" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="Width" type="int32" value="2048" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
 				</node>			
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
@@ -5635,7 +5661,7 @@
 					<attribute id="ID" type="FixedString" value="983804d4-c2fd-4fba-97cf-b3495ee81222" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Trips_Gob_F_NKD_Body_A" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Body.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="ScalarParameters">
@@ -5947,7 +5973,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="b9312c5e-9f01-ce0c-7b53-a9af78351702" />
+							<attribute id="ID" type="FixedString" value="a2cedba5-2f40-4e59-8dea-f17fbb2f1355" />
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 						<node id="Texture2DParameters">
@@ -5968,7 +5994,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="d28ad8a7-7deb-585a-d831-9108d78a6a0b" />
+							<attribute id="ID" type="FixedString" value="f8f239aa-d1d7-4995-b167-a4eb68569be5" />
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
