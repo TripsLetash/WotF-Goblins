@@ -21,6 +21,12 @@
 					<attribute id="Race" type="guid" value="8ecd3211-69e8-4949-af30-ce6c5f3042e9" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
+						<node id="Tag">
+                            <attribute id="Object" type="guid" value="04fbb464-cc92-44de-89f1-8d4b1b0f33f4"/>
+                        </node>
+						<node id="Tag">
+                            <attribute id="Object" type="guid" value="710d9065-a701-4b13-bb03-266a2c7996b9"/>
+                        </node>
 					</children>
 				</node>
 				<!--Player-->
