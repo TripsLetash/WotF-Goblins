@@ -37,7 +37,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="57" />
 							<attribute id="EngineCBSize" type="uint32" value="64" />
 							<attribute id="MaterialCBSize" type="uint32" value="32" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -57,7 +57,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="57" />
 							<attribute id="EngineCBSize" type="uint32" value="6208" />
 							<attribute id="MaterialCBSize" type="uint32" value="32" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
@@ -97,7 +97,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="80" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<attribute id="LightChannel" type="uint32" value="64" />
 							<children>
 								<node id="EngineCBBinding">
@@ -118,7 +118,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="6224" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<attribute id="LightChannel" type="uint32" value="6208" />
 							<children>
@@ -160,7 +160,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="64" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -180,7 +180,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="6208" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
@@ -220,7 +220,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="64" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -240,7 +240,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="6208" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
@@ -280,8 +280,8 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="128" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
-							<attribute id="WorldMatrixPrev" type="uint32" value="64" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixPrev" type="uint32" value="64" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -301,8 +301,8 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="12416" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
-							<attribute id="WorldMatrixPrev" type="uint32" value="12352" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixPrev" type="uint32" value="12352" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<attribute id="BoneMatricesPrev" type="uint32" value="6208" />
 							<children>
@@ -343,7 +343,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="64" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -363,7 +363,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="6208" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
@@ -403,7 +403,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="80" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<attribute id="LightChannel" type="uint32" value="64" />
 							<children>
 								<node id="EngineCBBinding">
@@ -424,7 +424,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="64" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">
 									<attribute id="DxVsIndex" type="int8" value="0" />
@@ -444,7 +444,7 @@
 							<attribute id="EngineParamFlags" type="uint16" value="0" />
 							<attribute id="EngineCBSize" type="uint32" value="6208" />
 							<attribute id="MaterialCBSize" type="uint32" value="16" />
-							<attribute id="WorldMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
 							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
 							<children>
 								<node id="EngineCBBinding">

@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="402" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Material">
+		<node id="Material">
+			<attribute id="Version64" type="int64" value="36028803461414915" />
+			<attribute id="ShadingModel" type="uint8" value="1" />
+			<attribute id="ForwardLightingMode" type="uint8" value="0" />
+			<attribute id="BlendStateID" type="uint8" value="0" />
+			<attribute id="RasterizerStateID" type="uint8" value="1" />
+			<attribute id="DepthStateID" type="uint8" value="5" />
+			<attribute id="UVCount" type="uint32" value="1" />
+			<attribute id="VertexColorEnabled" type="bool" value="False" />
+			<attribute id="InstanceColorEnabled" type="bool" value="False" />
+			<attribute id="QTangentEnabled" type="bool" value="True" />
+			<attribute id="DynamicParameterEnabled" type="bool" value="False" />
+			<attribute id="IsRefracting" type="bool" value="False" />
+			<attribute id="SceneColorEnabled" type="bool" value="False" />
+			<attribute id="MaterialPassHint" type="uint8" value="1" />
+			<attribute id="MaterialType" type="uint8" value="0" />
+			<attribute id="IsLuminanceEmissive" type="bool" value="False" />
+			<attribute id="IsEmissiveMaterial" type="bool" value="True" />
+			<attribute id="MaterialUsage" type="uint8" value="0" />
+			<attribute id="LateAlpha" type="bool" value="False" />
+			<attribute id="EarlyRefraction" type="bool" value="True" />
+			<attribute id="IsOpaqueCustom" type="bool" value="False" />
+			<attribute id="IsUsingWorldPositionOffset" type="bool" value="False" />
+			<attribute id="IsDiscardingPixels" type="bool" value="True" />
+			<attribute id="CanReceiveDeferredDecals" type="bool" value="False" />
+			<attribute id="UsedWithFixedRibbons" type="bool" value="False" />
+			<attribute id="UsedWithCameraAlignedRibbons" type="bool" value="False" />
+			<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+			<children>
+				<node id="ShaderDescriptions">
+					<children>
+						<node id="ShaderDesc_StaticForward">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="64" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedForward">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6208" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedForward">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticDeferred">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="80" />
+							<attribute id="MaterialCBSize" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<attribute id="LightChannel" type="uint32" value="64" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedDeferred">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6224" />
+							<attribute id="MaterialCBSize" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<attribute id="LightChannel" type="uint32" value="6208" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedDeferred">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="16" />
+							<attribute id="MaterialCBSize" type="uint32" value="0" />
+							<attribute id="LightChannel" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="64" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6208" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticDepth">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="64" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedDepth">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6208" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedDepth">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticVelocity">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="128" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<attribute id="WorldOffsetMatrixPrev" type="uint32" value="64" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedVelocity">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="12416" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="WorldOffsetMatrixPrev" type="uint32" value="12352" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<attribute id="BoneMatricesPrev" type="uint32" value="6208" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedVelocity">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticEmissive">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="64" />
+							<attribute id="MaterialCBSize" type="uint32" value="32" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedEmissive">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6208" />
+							<attribute id="MaterialCBSize" type="uint32" value="32" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedEmissive">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="32" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticBake">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="16" />
+							<attribute id="MaterialCBSize" type="uint32" value="0" />
+							<attribute id="LightChannel" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticDepthShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="64" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_SkinnedDepthShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="6208" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<attribute id="WorldOffsetMatrixCurr" type="uint32" value="6144" />
+							<attribute id="BoneMatricesCurr" type="uint32" value="0" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="0" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="1" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="1" />
+								</node>
+							</children>
+						</node>
+						<node id="ShaderDesc_StaticInstancedDepthShadow">
+							<attribute id="EngineParamFlags" type="uint16" value="0" />
+							<attribute id="EngineCBSize" type="uint32" value="0" />
+							<attribute id="MaterialCBSize" type="uint32" value="48" />
+							<children>
+								<node id="EngineCBBinding">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="-1" />
+									<attribute id="VkDescriptorSet" type="int8" value="-1" />
+									<attribute id="VkBindingIndex" type="int8" value="-1" />
+								</node>
+								<node id="MaterialCBSize">
+									<attribute id="DxVsIndex" type="int8" value="-1" />
+									<attribute id="DxPsIndex" type="int8" value="0" />
+									<attribute id="VkDescriptorSet" type="int8" value="1" />
+									<attribute id="VkBindingIndex" type="int8" value="0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="ScalarParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Switch_Debug" />
+					<attribute id="UniformName" type="FixedString" value="FloatParameter_Switch_Debug" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="32" />
+					<attribute id="SkinnedForward" type="uint32" value="32" />
+					<attribute id="StaticInstancedForward" type="uint32" value="32" />
+					<attribute id="StaticShadow" type="uint32" value="32" />
+					<attribute id="SkinnedShadow" type="uint32" value="32" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="32" />
+					<attribute id="StaticDepth" type="uint32" value="32" />
+					<attribute id="SkinnedDepth" type="uint32" value="32" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="32" />
+					<attribute id="StaticVelocity" type="uint32" value="32" />
+					<attribute id="SkinnedVelocity" type="uint32" value="32" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="32" />
+					<attribute id="StaticDepthShadow" type="uint32" value="32" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="32" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="32" />
+					<attribute id="Value" type="float" value="0" />
+					<attribute id="BaseValue" type="float" value="0" />
+				</node>
+				<node id="ScalarParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Switch_Debug_Alpha" />
+					<attribute id="UniformName" type="FixedString" value="FloatParameter_Switch_Debug_Alpha" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="36" />
+					<attribute id="SkinnedForward" type="uint32" value="36" />
+					<attribute id="StaticInstancedForward" type="uint32" value="36" />
+					<attribute id="StaticShadow" type="uint32" value="36" />
+					<attribute id="SkinnedShadow" type="uint32" value="36" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="36" />
+					<attribute id="StaticDepth" type="uint32" value="36" />
+					<attribute id="SkinnedDepth" type="uint32" value="36" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="36" />
+					<attribute id="StaticVelocity" type="uint32" value="36" />
+					<attribute id="SkinnedVelocity" type="uint32" value="36" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="36" />
+					<attribute id="StaticDepthShadow" type="uint32" value="36" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="36" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="36" />
+					<attribute id="Value" type="float" value="0" />
+					<attribute id="BaseValue" type="float" value="0" />
+				</node>
+				<node id="ScalarParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="_OpacityFade" />
+					<attribute id="UniformName" type="FixedString" value="_OpacityFade" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="False" />
+					<attribute id="StaticForward" type="uint32" value="40" />
+					<attribute id="SkinnedForward" type="uint32" value="40" />
+					<attribute id="StaticInstancedForward" type="uint32" value="40" />
+					<attribute id="Value" type="float" value="1" />
+					<attribute id="BaseValue" type="float" value="1" />
+				</node>
+				<node id="Vector2Parameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Hi_Lum_Mask" />
+					<attribute id="UniformName" type="FixedString" value="Vector2Parameter_Hi_Lum_Mask" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="0" />
+					<attribute id="SkinnedForward" type="uint32" value="0" />
+					<attribute id="StaticInstancedForward" type="uint32" value="0" />
+					<attribute id="StaticShadow" type="uint32" value="0" />
+					<attribute id="SkinnedShadow" type="uint32" value="0" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="0" />
+					<attribute id="StaticDepth" type="uint32" value="0" />
+					<attribute id="SkinnedDepth" type="uint32" value="0" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="0" />
+					<attribute id="StaticVelocity" type="uint32" value="0" />
+					<attribute id="SkinnedVelocity" type="uint32" value="0" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="0" />
+					<attribute id="StaticEmissive" type="uint32" value="0" />
+					<attribute id="SkinnedEmissive" type="uint32" value="0" />
+					<attribute id="StaticInstancedEmissive" type="uint32" value="0" />
+					<attribute id="StaticDepthShadow" type="uint32" value="0" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="0" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="0" />
+					<attribute id="Value" type="fvec2" value="0 1" />
+					<attribute id="BaseValue" type="fvec2" value="0 1" />
+				</node>
+				<node id="Vector2Parameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Hi_Lum_SmthStp" />
+					<attribute id="UniformName" type="FixedString" value="Vector2Parameter_Hi_Lum_SmthStp" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="8" />
+					<attribute id="SkinnedForward" type="uint32" value="8" />
+					<attribute id="StaticInstancedForward" type="uint32" value="8" />
+					<attribute id="StaticShadow" type="uint32" value="8" />
+					<attribute id="SkinnedShadow" type="uint32" value="8" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="8" />
+					<attribute id="StaticDepth" type="uint32" value="8" />
+					<attribute id="SkinnedDepth" type="uint32" value="8" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="8" />
+					<attribute id="StaticVelocity" type="uint32" value="8" />
+					<attribute id="SkinnedVelocity" type="uint32" value="8" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="8" />
+					<attribute id="StaticEmissive" type="uint32" value="8" />
+					<attribute id="SkinnedEmissive" type="uint32" value="8" />
+					<attribute id="StaticInstancedEmissive" type="uint32" value="8" />
+					<attribute id="StaticDepthShadow" type="uint32" value="8" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="8" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="8" />
+					<attribute id="Value" type="fvec2" value="1 0" />
+					<attribute id="BaseValue" type="fvec2" value="1 0" />
+				</node>
+				<node id="Vector2Parameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Lo_Lum_Mask" />
+					<attribute id="UniformName" type="FixedString" value="Vector2Parameter_Lo_Lum_Mask" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="16" />
+					<attribute id="SkinnedForward" type="uint32" value="16" />
+					<attribute id="StaticInstancedForward" type="uint32" value="16" />
+					<attribute id="StaticShadow" type="uint32" value="16" />
+					<attribute id="SkinnedShadow" type="uint32" value="16" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="16" />
+					<attribute id="StaticDepth" type="uint32" value="16" />
+					<attribute id="SkinnedDepth" type="uint32" value="16" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="16" />
+					<attribute id="StaticVelocity" type="uint32" value="16" />
+					<attribute id="SkinnedVelocity" type="uint32" value="16" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="16" />
+					<attribute id="StaticEmissive" type="uint32" value="16" />
+					<attribute id="SkinnedEmissive" type="uint32" value="16" />
+					<attribute id="StaticInstancedEmissive" type="uint32" value="16" />
+					<attribute id="StaticDepthShadow" type="uint32" value="16" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="16" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="16" />
+					<attribute id="Value" type="fvec2" value="0 0.19" />
+					<attribute id="BaseValue" type="fvec2" value="0 0.19" />
+				</node>
+				<node id="Vector2Parameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="Lo_Lum_SmthStp" />
+					<attribute id="UniformName" type="FixedString" value="Vector2Parameter_Lo_Lum_SmthStp" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="StaticForward" type="uint32" value="24" />
+					<attribute id="SkinnedForward" type="uint32" value="24" />
+					<attribute id="StaticInstancedForward" type="uint32" value="24" />
+					<attribute id="StaticShadow" type="uint32" value="24" />
+					<attribute id="SkinnedShadow" type="uint32" value="24" />
+					<attribute id="StaticInstancedShadow" type="uint32" value="24" />
+					<attribute id="StaticDepth" type="uint32" value="24" />
+					<attribute id="SkinnedDepth" type="uint32" value="24" />
+					<attribute id="StaticInstancedDepth" type="uint32" value="24" />
+					<attribute id="StaticVelocity" type="uint32" value="24" />
+					<attribute id="SkinnedVelocity" type="uint32" value="24" />
+					<attribute id="StaticInstancedVelocity" type="uint32" value="24" />
+					<attribute id="StaticEmissive" type="uint32" value="24" />
+					<attribute id="SkinnedEmissive" type="uint32" value="24" />
+					<attribute id="StaticInstancedEmissive" type="uint32" value="24" />
+					<attribute id="StaticDepthShadow" type="uint32" value="24" />
+					<attribute id="SkinnedDepthShadow" type="uint32" value="24" />
+					<attribute id="StaticInstancedDepthShadow" type="uint32" value="24" />
+					<attribute id="Value" type="fvec2" value="0.6 0.4" />
+					<attribute id="BaseValue" type="fvec2" value="0.6 0.4" />
+				</node>
+				<node id="Texture2DParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="" />
+					<attribute id="UniformName" type="FixedString" value="Texture2DParameter_6b5203b438547173d8fb1bcfd7eb7a7a_DefaultWrapSampler" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="6b5203b4-3854-7173-d8fb-1bcfd7eb7a7a" />
+					<children>
+						<node id="StaticForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+						<node id="SkinnedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+						<node id="StaticInstancedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="1" />
+						</node>
+						<node id="StaticEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+						<node id="SkinnedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+						<node id="StaticInstancedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="0" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="Texture2DParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="" />
+					<attribute id="UniformName" type="FixedString" value="Texture2DParameter_3141bd5ddd1d3ef3c030e1aa78a7eb50_DefaultWrapSampler" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="3141bd5d-dd1d-3ef3-c030-e1aa78a7eb50" />
+					<children>
+						<node id="StaticForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="3" />
+						</node>
+						<node id="SkinnedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="3" />
+						</node>
+						<node id="StaticInstancedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+						<node id="StaticEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="3" />
+						</node>
+						<node id="SkinnedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="3" />
+						</node>
+						<node id="StaticInstancedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="1" />
+							<attribute id="VkDescriptorSet" type="int8" value="1" />
+							<attribute id="VkBindingIndex" type="int8" value="2" />
+						</node>
+					</children>
+				</node>
+				<node id="SamplerStateParameters">
+					<attribute id="Enabled" type="bool" value="False" />
+					<attribute id="ParameterName" type="FixedString" value="_DefaultWrapSampler" />
+					<attribute id="UniformName" type="FixedString" value="_DefaultWrapSampler" />
+					<attribute id="GroupName" type="FixedString" value="" />
+					<attribute id="ExportAsPreset" type="bool" value="True" />
+					<children>
+						<node id="StaticForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+						<node id="SkinnedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+						<node id="StaticInstancedForward">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+						<node id="StaticEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+						<node id="SkinnedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+						<node id="StaticInstancedEmissive">
+							<attribute id="DxVsIndex" type="int8" value="-1" />
+							<attribute id="DxPsIndex" type="int8" value="15" />
+							<attribute id="VkDescriptorSet" type="int8" value="0" />
+							<attribute id="VkBindingIndex" type="int8" value="7" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
